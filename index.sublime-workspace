@@ -1,0 +1,663 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Y",
+				"YouTube"
+			],
+			[
+				"D",
+				"DeviantArt"
+			],
+			[
+				"al",
+				"alt"
+			],
+			[
+				"tit",
+				"title\tAttr"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"co",
+				"container \tBootstrap 3 Class"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"c",
+				"container"
+			],
+			[
+				"f",
+				"flex-grow"
+			],
+			[
+				"i",
+				"item\t(index.html)"
+			],
+			[
+				"sp",
+				"space-between"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"au",
+				"authenticate()\tindex.js"
+			],
+			[
+				"register",
+				"register(user, password, cb)\tindex.js"
+			],
+			[
+				"inp",
+				"inputt\tinput - text"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"dese",
+				"deserializeUser()\tindex.js"
+			],
+			[
+				"req",
+				"required()\tschematype.js"
+			],
+			[
+				"ca",
+				"caption-full\t(show.ejs)"
+			],
+			[
+				"col-",
+				"col-md-9"
+			],
+			[
+				"text-r",
+				"text-right \tBootstrap 3 Class"
+			],
+			[
+				"pu",
+				"pull-right \tBootstrap 3 Class"
+			],
+			[
+				"cap",
+				"caption \tBootstrap 3 Class"
+			],
+			[
+				"im",
+				"img-responsive \tBootstrap 3 Class"
+			],
+			[
+				"li",
+				"list-group-item \tBootstrap 3 Class"
+			],
+			[
+				"min-",
+				"min-width: 〔property〕"
+			],
+			[
+				"cre",
+				"create()\tmodel.js"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"pop",
+				"populate()\tquery.js"
+			],
+			[
+				"save",
+				"save(callback)\ttest.js"
+			],
+			[
+				"posts",
+				"posts\treferences.js"
+			],
+			[
+				"console",
+				"console.log\t(embedd.js)"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"max-",
+				"max-width: 〔property〕"
+			],
+			[
+				"forE",
+				"forEach()\tstatemachine.js"
+			],
+			[
+				"crea",
+				"create(proto)\tutils.js"
+			],
+			[
+				"Date",
+				"Date()"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"sa",
+				"save()\ttest.js"
+			],
+			[
+				"for",
+				"form-group \tBootstrap 3 Class"
+			],
+			[
+				"hea",
+				"header\t<header>"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"sea",
+				"searchRes\t(results.ejs)"
+			],
+			[
+				"log",
+				"console.log"
+			],
+			[
+				"lo",
+				"log\t(movie_search_app.js)"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"fo",
+				"form\t<form>"
+			],
+			[
+				"list",
+				"listen()\tapplication.js"
+			],
+			[
+				"funct",
+				"map(function(aSome) {"
+			],
+			[
+				"pr",
+				"price\tfakeProductList.js"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"fa-",
+				"fa-plus\t(index.html)"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"T",
+				"TodoText"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: r",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: side",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"Package Control: e",
+				"Package Control: Enable Package"
+			],
+			[
+				"d",
+				"Package Control: Disable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Get Elements"
+			],
+			[
+				"Package Control: l",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 394.0
+	},
+	"console":
+	{
+		"height": 56.0,
+		"history":
+		[
+			"cls",
+			"clear()",
+			"clear",
+			"ln -s /usr/bin/nodejs /usr/bin/node",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"document.getElementsByTagName(\"li\")",
+			"$(\"li\")"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/index.html",
+		"/Users/ArrayOfLilly/Library/Application Support/Sublime Text 3/Packages/CSSLint/CSSLint.sublime-settings",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/css/styles.css",
+		"/Users/ArrayOfLilly/Desktop/C7596599-C063-44AA-9A8F-187A49D89323.jsx",
+		"/Users/ArrayOfLilly/.dropbox/info.json",
+		"/Users/ArrayOfLilly/Desktop/COLOURlovers.com_Cassandre_APC_18a.xml",
+		"/Volumes/Data/Dropbox/enerGO Shared/Privát/Tab szerződések, számlázás/Tab 1-2. résszámlához (4ép+Rudnay)/Szállítólevelek/Schneider/Kiss Lászlótól",
+		"/Volumes/Data/Dropbox/enerGO Shared/Privát/Tab szerződések, számlázás/Tab 1-2. résszámlához (4ép+Rudnay)/Szállítólevelek/Bújdosó/Rendőrség villamosság",
+		"/Users/ArrayOfLilly/Desktop/Kiegészítések.txt",
+		"/Applications/iTeleport Connect.app/Contents/PkgInfo",
+		"/Users/ArrayOfLilly/Desktop/list.txt",
+		"/Users/ArrayOfLilly/Desktop/export.xls;jsessionid=Sy9phvJXNxCzSdyKqv2nQnnNG8cV70jpSkL1Gs0xDXDL9NBH7zNz!-1345306625!ECSWEBAPPT44!17013!-1!NONE",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/Section 32 - Authentication/AuthDemo/app.js",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/Section 32 - Authentication/AuthDemo/views/secret.ejs",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/Section 32 - Authentication/AuthDemo/views/home.ejs",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/Section 32 - Authentication/AuthDemo/views/register.ejs",
+		"/Volumes/Movies/Movies/2001 - A Space Odyssey (1968)/2001 - A Space Odyssey (1968).srt",
+		"/Volumes/Tales/Tales/Series/Babar (1989)/Babar (1989) - complete series, eng /Season 3/Babar - 3x02 - The Celesteville Inquirer1.nfo",
+		"/Volumes/Tales/Tales/Series/Babar (1989)/Babar (1989) - complete series, eng /Season 3/Babar - 3x01 - Special Delivery.nfo",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/Section 32 - Authentication/AuthDemo/models/user.ejs",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/Section 32 - Authentication/AuthDemo/views/login.ejs",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/Authentication/AuthDemo/models/user.js",
+		"/Users/ArrayOfLilly/Documents/TheInnerWorld/savegames/saveFile-1.tiw",
+		"/Users/ArrayOfLilly/Library/Application Support/com.headupgames.theinnerworldsteam/Local Store/settings.tiw",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/Authentication/AuthDemo/app.js",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/Authentication/AuthDemo/views/register.ejs",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/Section 32 - Authentication/AuthDemo/views/home",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/Section 32 - Authentication/AuthDemo/package.json",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/YelpCamp/app.js",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/Section 32 - Authentication/AuthDemo/package-lock.json",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/YelpCamp/views/partials/header.ejs",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/YelpCamp/views/campgrounds/index.ejs",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/YelpCamp/views/campgrounds/show.ejs",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/YelpCamp/public/stylesheets/style.css",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/Section 18 - ToDoList Project/assets/css/styles.css",
+		"/Users/ArrayOfLilly/Library/Application Support/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/YelpCamp/seeds.js",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/YelpCamp/views/comments/new.ejs",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/YelpCamp/views/campgrounds/new.ejs",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/YelpCamp/models/comment",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/YelpCamp/views/show.ejs",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/YelpCamp/models/campground",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/YelpCamp/etc/mongodb/yelp_camp/dummyToDB.js",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/Section 30 - Data Associations/01 Associations/references.js",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/Section 30 - Data Associations/01 Associations/models/user.js",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/Section 30 - Data Associations/01 Associations/models/post.js",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/Section 30 - Data Associations/01 Associations/embedd.js",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/Section 30 - Data Associations/01 Associations/node_modules/mongoose/README.md",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/Section 29 - RESTful routing/01 Blog/app.js",
+		"/Volumes/MoreStorage/Actual Projects/Udemy - Web Developer Bootcamp/YelpCamp/embed.js",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/YelpCamp/views/partials/footer.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/YelpCamp/views/partials/header.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/YelpCamp/public/style.css",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/YelpCamp/etc/mongodb/yelp_camp/dummyToDB.js",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/YelpCamp/views/show.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/YelpCamp/views/new.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/YelpCamp/views/landing.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/YelpCamp/views/index.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/YelpCamp/app.js",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 30 - Data Associations/01 Associations/index.js",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 29 - RESTful routing /01 Blog/app.js",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 29 - RESTful routing /01 Blog/views/index.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 29 - RESTful routing /01 Blog/public/stylesheets/style.css",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/RESTful Routing/BlogSolution/views/index.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 29 - RESTful routing /01 Blog/views/show.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 29 - RESTful routing /01 Blog/views/edit.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 29 - RESTful routing /01 Blog/views/new.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/RESTful Routing/BlogSolution/app.js",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/RESTful Routing/BlogSolution/views/show.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/RESTful Routing/BlogSolution/views/edit.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 29 - RESTful routing /01 Blog/etc/mongoDB/restful_blog_app/blogs.JSON",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 29 - RESTful routing /01 Blog/package.json",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 29 - RESTful routing /01 Blog/views/partials/footer.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 29 - RESTful routing /01 Blog/views/partials/header.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 29 - RESTful routing /01 Blog/blogs.JSON",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 29 - RESTful routing /01 Blog/etc/mongoDB/restful_blog_app/dummyData.js",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 29 - RESTful routing /01 Blog/package-lock.json",
+		"/Users/ArrayOfLilly/Desktop/campgrounds.json",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/YelpCamp/v2/views/index.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/YelpCamp/v2/views/new.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/YelpCamp/dummyToDB.js",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/YelpCamp/v2/app.js",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/YelpCamp/v2/views/show.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 27 - MongoDB Basics /01 Cats/app.js",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/YelpCamp/package.json",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/YelpCamp/v1/app.js",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/YelpCamp/views/campgrounds.e",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/YelpCamp/package-lock.json",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/YelpCamp Project/app.js",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/02 Movie Search App/app.js",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/02 Movie Search App/views/results.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/02 Movie Search App/views/search.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/APIs/movie_search_app/views/results.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/02 Movie Search App/views/partials/header.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/APIs/movie_search_app/views/search.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/APIs/movie_search_app/views/search_.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/APIs/movie_search_app/app.js",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/02 Movie Search App/package.json",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/01 HTTP Request/http_request.js",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/01 HTTP Request/package.json",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/02 HTTP Request/http_request.js",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/01 Using API/movie_search_app.js",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/01 Using API/public/style.css",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/01 Using API/views/partials/footer.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/01 Using API/views/partials/header.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/01 Using API/views/home.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/01 Using API/views/todos.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/01 Using API/package.json",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 24 - Advanced Express/03 Post Requests/views/todos.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 24 - Advanced Express/03 Post Requests/views/home.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 24 - Advanced Express/03 Post Requests/app.js",
+		"/Users/ArrayOfLilly/Desktop/base16-ocean.dark (SL).tmTheme",
+		"/Users/ArrayOfLilly/Library/Application Support/Sublime Text 3/Packages/Colorsublime/Colorsublime.sublime-settings",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 24 - Advanced Express/03 Post Requests/views/postRequestDemo.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 24 - Advanced Express/03 Post Requests/public/style.css",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 24 - Advanced Express/02 Assets/app.js",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 24 - Advanced Express/02 Assets/views/partials/footer.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 24 - Advanced Express/02 Assets/public/app.css",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 24 - Advanced Express/02 Assets/views/posts.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 24 - Advanced Express/02 Assets/views/love.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 24 - Advanced Express/02 Assets/views/home.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 24 - Advanced Express/02 Assets/views/partials/header.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 24 - Advanced Express/02 Assets/package-lock.json",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 24 - Advanced Express/02 Assets/public/4812975.png",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 24 - Advanced Express/01 More Exress/views/love.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 24 - Advanced Express/01 More Exress/views/posts.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 24 - Advanced Express/01 More Exress/views/home.ejs",
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 24 - Advanced Express/01 More Exress/app.js"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 103.0
+	},
+	"output.exec":
+	{
+		"height": 189.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/Udemy - Web Developer Bootcamp/Section 18 - ToDoList Project/assets/css/styles.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
