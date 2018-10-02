@@ -1,0 +1,6 @@
+- [ ] order
+- [ ] grouping with group images
+- [ ] drag n' drop
+- [ ] more link images
+- [ ] DB 
+- [ ] editor or drag 'n' drop

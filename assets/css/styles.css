@@ -5,7 +5,7 @@ body {
 img {
 	width: 150px;
 	box-shadow: 2px 2px 8px #bbb;
-	border-radius: 3px;
+	border-radius: 4px;
 }
 
 .container {
@@ -26,18 +26,18 @@ img {
 }
 
 .emptyCells {
-	width: 150px;
+	width: 120px;
 	height: 0;
 }
 
 .toggle > img {
-	filter: opacity(75%) grayscale(25%);
+	filter: opacity(60%) grayscale(40%);
 	transition: filter 1s;
 	z-index: -1;
 }
 
 .favorites > img:hover {
-	box-shadow: 2px 2px 8px #000;
+	box-shadow: 2px 2px 8px #666;
 	transform: scale(1.8);
 	position: relative;
 	filter: opacity(100%);
