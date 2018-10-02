@@ -5,6 +5,7 @@ body {
 img {
 	width: 150px;
 	box-shadow: 2px 2px 8px #bbb;
+	border-radius: 3px;
 }
 
 .container {
@@ -37,11 +38,13 @@ img {
 
 .favorites > img:hover {
 	box-shadow: 2px 2px 8px #000;
-	transform: scale(1.5);
+	transform: scale(1.8);
 	position: relative;
 	filter: opacity(100%);
 	transition: filter;
 	z-index: 2;
+	border-radius: 75px;
+
 }
 
 #goo {
