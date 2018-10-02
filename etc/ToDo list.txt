@@ -1,4 +1,4 @@
-- [ ] order
+- [x] order
 - [ ] grouping with group images
 - [ ] drag n' drop
 - [ ] more link images

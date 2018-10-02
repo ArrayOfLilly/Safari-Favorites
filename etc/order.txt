@@ -1,126 +1,87 @@
-List:
+Google 
+Gmail
+Google Maps
+Google Translate
+Urban Dictionary
 
-- [ ] MyAirBridge
-- [ ] Flaticon
-- [ ] FreePic
-- [ ] Poolga
-- [ ] Vladstudio
-- [ ] OSXDaily
-- [ ] Notebookreview
-- [ ] 500px
-- [ ] pexels
-- [ ] pixabay
+imdb
+HBO
+Plex
+youtube
+Bandcamp
+Steam
+Mac-Torrent-Download
+TPB
+nCore
+insane
 
-- [ ] lorem ipsum
-- [ ] unsplash
-- [ ] flickr
-- [ ] wallpaperswide
-- [ ] whatfontis
-- [ ] behance
-- [ ] dafont
-- [ ] 101font
-- [ ] fontsquirrel
-- [ ] urbanfonts
+CL
+DeviantArt
+InterfaceLIFT
+Pinterest
+Twitter
+Reddit
+Tumblr
+Facebook
+Dropbox
+OneDrive
+iCloud
 
-- [ ] literotica
-- [ ] wikipedia
-- [ ] xnxx
-- [ ] banggood
-- [ ] aliexpress
-- [ ] uag
-- [ ] jsfiddler
-- [ ] aqua
-- [ ] 99design
-- [ ] http://allfont.net
+Index.hu
+444
+HVG
+Magyar Narancs
+Örülünk, Vincent?
+Egyharmad.net
+Lobster
+Csakazolvassa.hu
 
-- [ ] pizza.hu
-- [ ] hennes
-- [ ] mango
-- [ ] tezenis
-- [ ] pull bear
-- [ ] zara
-- [ ] ? - bolt
-- [ ] paypal
-- [ ] imgur
-- [ ] energo
+Prohardver
+Hardverapró
+iMagazin
+Macrumors
+MUO
+iMore
+9to5Mac
 
-- [ ] radicalsmart
-- [ ] arrayoflilly
-- [ ] ugyfelkapu
-- [ ] posta
-- [ ] soundhound
-- [ ] musixmatch
-- [ ] spotify
-- [ ] tidal
-- [ ] apple exchange
-- [ ] raywenderlich
+Lynda.com
+Udemy
+W3School
+MDN
+Stack Oweflow
+Smashing Magazine
+Github
+jQuery
+Bootstrap
+Semantic UI
+Font Awesome
+MongoDB
+npm
+Swift
+Cocoapods
 
-- [ ] instagram
-- [ ] twitter
-- [ ] microsoftonline
-- [ ] bighost
-- [ ] interworx
-- [ ] ingatlan.com
-- [ ] ecigionline
-- [ ] kódmegosztás
-- [ ] aw3
-- [ ] shareicon
+CIB
+Telekom
+UPC
+Dijnet
+NKM
+Számlázz.hu
+E-napló
+Amazon
+Ebay
+Apple.hu
+istyle.hu
+Media Markt
+Extreme Digital
+Alza.hu
+Árukereső
 
-- [ ] imenza
-- [ ] kréta
-- [ ] affinity tuts
-- [ ] w3org
-- [ ] css garden
-- [ ] online json editor
-- [ ] codepen
-- [ ] specificity calculator
-- [ ] google fonts
-- [ ] css tricks
 
-- [ ] klav
-- [ ] project euler
-- [ ] opensubtitles
-- [ ] feliratok.info
-- [ ] esl
-- [ ] usingenglish
-- [ ] fiftyfootshadows
-- [ ] top
-- [ ] Netflix
-- [ ] Localhost
 
-- [ ] Codecuttlefish
-- [ ] Thesaurus
-- [ ] Expess
-- [ ] Angular
-- [ ] Validator
-- [ ] Bookline
-- [ ] Libri
-- [ ] Native union
-- [ ] Origo
-- [ ] .arduino
-- [ ] .amerikai nepszava
-- [ ] .dezsa
-- [ ] .cultofmac
 
-- [ ] Khan
-- [ ] Pocket
-- [ ] Nagaba
-- [ ] Office shoes
-- [ ] Adobe
-- [ ] Moly.hu
-- [ ] Mek
-- [ ] Evernote
-- [ ] .google drive
-- [ ] .gamezebo
-- [ ] https://html5boilerplate.com
 
-- [ ] Stack exchange
-- [ ] Dribble
-- [ ] Super user
-- [ ] A list apart
-- [ ] Tuts+
-- [ ] code academy
-- [ ] udacity
-- [ ] apple insider
-- [ ] 24
-- [ ] 168ora
+
+
+
+
+

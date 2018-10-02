@@ -1,0 +1,126 @@
+List:
+
+- [ ] MyAirBridge
+- [ ] Flaticon
+- [ ] FreePic
+- [ ] Poolga
+- [ ] Vladstudio
+- [ ] OSXDaily
+- [ ] Notebookreview
+- [ ] 500px
+- [ ] pexels
+- [ ] pixabay
+
+- [ ] lorem ipsum
+- [ ] unsplash
+- [ ] flickr
+- [ ] wallpaperswide
+- [ ] whatfontis
+- [ ] behance
+- [ ] dafont
+- [ ] 101font
+- [ ] fontsquirrel
+- [ ] urbanfonts
+
+- [ ] literotica
+- [ ] wikipedia
+- [ ] xnxx
+- [ ] banggood
+- [ ] aliexpress
+- [ ] uag
+- [ ] jsfiddler
+- [ ] aqua
+- [ ] 99design
+- [ ] http://allfont.net
+
+- [ ] pizza.hu
+- [ ] hennes
+- [ ] mango
+- [ ] tezenis
+- [ ] pull bear
+- [ ] zara
+- [ ] ? - bolt
+- [ ] paypal
+- [ ] imgur
+- [ ] energo
+
+- [ ] radicalsmart
+- [ ] arrayoflilly
+- [ ] ugyfelkapu
+- [ ] posta
+- [ ] soundhound
+- [ ] musixmatch
+- [ ] spotify
+- [ ] tidal
+- [ ] apple exchange
+- [ ] raywenderlich
+
+- [ ] instagram
+- [ ] twitter
+- [ ] microsoftonline
+- [ ] bighost
+- [ ] interworx
+- [ ] ingatlan.com
+- [ ] ecigionline
+- [ ] kódmegosztás
+- [ ] aw3
+- [ ] shareicon
+
+- [ ] imenza
+- [ ] kréta
+- [ ] affinity tuts
+- [ ] w3org
+- [ ] css garden
+- [ ] online json editor
+- [ ] codepen
+- [ ] specificity calculator
+- [ ] google fonts
+- [ ] css tricks
+
+- [ ] klav
+- [ ] project euler
+- [ ] opensubtitles
+- [ ] feliratok.info
+- [ ] esl
+- [ ] usingenglish
+- [ ] fiftyfootshadows
+- [ ] top
+- [ ] Netflix
+- [ ] Localhost
+
+- [ ] Codecuttlefish
+- [ ] Thesaurus
+- [ ] Expess
+- [ ] Angular
+- [ ] Validator
+- [ ] Bookline
+- [ ] Libri
+- [ ] Native union
+- [ ] Origo
+- [ ] .arduino
+- [ ] .amerikai nepszava
+- [ ] .dezsa
+- [ ] .cultofmac
+
+- [ ] Khan
+- [ ] Pocket
+- [ ] Nagaba
+- [ ] Office shoes
+- [ ] Adobe
+- [ ] Moly.hu
+- [ ] Mek
+- [ ] Evernote
+- [ ] .google drive
+- [ ] .gamezebo
+- [ ] https://html5boilerplate.com
+
+- [ ] Stack exchange
+- [ ] Dribble
+- [ ] Super user
+- [ ] A list apart
+- [ ] Tuts+
+- [ ] code academy
+- [ ] udacity
+- [ ] apple insider
+- [ ] 24
+- [ ] 168ora
