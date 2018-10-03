@@ -4,3 +4,15 @@
 - [ ] more link images
 - [ ] DB 
 - [ ] editor or drag 'n' drop
+- [ ] apply images to circle icons
+		- Google Translate
+		- Csakazolvassa
+		- TPB
+		- Smashing Magazine
+		- Telekom
+		- UPC 
+		- iMore
+		- BS
+		- Sem ui
+		- swift
+		

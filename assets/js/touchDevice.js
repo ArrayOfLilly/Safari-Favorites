@@ -4,3 +4,8 @@ $(document).ready(function() {
         $(this).removeClass('favorites');
     });
 });
+
+
+
+
+
