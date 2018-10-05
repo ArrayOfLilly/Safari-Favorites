@@ -4,12 +4,12 @@
 		"selected_items":
 		[
 			[
-				"hov",
-				"hover_effect\t(styles.css)"
+				"pa",
+				"padding-right"
 			],
 			[
-				"pa",
-				"padding-left"
+				"hov",
+				"hover_effect\t(styles.css)"
 			],
 			[
 				"scale",
@@ -427,27 +427,28 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/etc"
 	],
 	"file_history":
 	[
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/speeddial.html",
+		"/Users/ArrayOfLilly/Desktop/index.html",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/dark.css",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/light.css",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/styles.css",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/transition.js",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/touchDevice.js",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/square.css",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/favicon/manifest.json",
+		"/Users/ArrayOfLilly/Desktop/4a58c1f334f0eff06655268132e2de5e.ico/manifest.json",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/alterView.js",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/index.html",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/transition.js",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/circle.css",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/touchDevice.js",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/AtoZ.html",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/ordered.html",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/circle.css",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/square.css",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/index.sublime-workspace",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/etc/ToDo list.txt",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/etc/order.txt",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/etc/img ToDo.txt",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/speeddial.html",
 		"/Users/ArrayOfLilly/Desktop/mini-preview-master/index.html",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/previewbox.js",
 		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 14 - Intro To jQuery/01 jQuery Demo/jQueryDemo.html",
@@ -556,17 +557,11 @@
 		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/01 Using API/views/partials/footer.ejs",
 		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/01 Using API/views/partials/header.ejs",
 		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/01 Using API/views/home.ejs",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/01 Using API/views/todos.ejs",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/01 Using API/package.json",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 24 - Advanced Express/03 Post Requests/views/todos.ejs",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 24 - Advanced Express/03 Post Requests/views/home.ejs",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 24 - Advanced Express/03 Post Requests/app.js",
-		"/Users/ArrayOfLilly/Desktop/base16-ocean.dark (SL).tmTheme",
-		"/Users/ArrayOfLilly/Library/Application Support/Sublime Text 3/Packages/Colorsublime/Colorsublime.sublime-settings"
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/01 Using API/views/todos.ejs"
 	],
 	"find":
 	{
-		"height": 38.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
@@ -580,6 +575,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"<img",
+			"img"
 		],
 		"highlight": true,
 		"in_selection": false,
