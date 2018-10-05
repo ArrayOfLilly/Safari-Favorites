@@ -31,12 +31,12 @@ img {
 }
 
 .toggle > img {
-	/* filter: opacity(60%) grayscale(40%);
-	transition: filter 1s; */
+	filter: opacity(60%) grayscale(40%);
+	transition: filter 1s;
 	z-index: -1;
 }
 
-a.favorites > img:hover {
+.favorites > img:hover {
 	box-shadow: 2px 2px 8px #666;
 	transform: scale(1.1);
 	position: relative;

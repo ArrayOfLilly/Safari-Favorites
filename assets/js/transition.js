@@ -7,5 +7,5 @@ $('a.favorites').hover(function(){
 // });
 
 $('a.favorites').click(function(){
-	$(a.favorites).unbind('mouseenter mouseleave');
+	$(a.favorites).unbind('hover mouseenter mouseleave');
 });
