@@ -1,11 +1,11 @@
-$('a.favorites').hover(function(){
-	$('a.favorites').toggleClass('toggle');
-});
+$(document).ready(function(){
 
-// $('a.favorites').click(function(){
-// 	$(a.favorites).toggleClass('toggle');
-// });
+	$('a.favorites').hover(function(){
+		$('a.favorites').toggleClass('toggle');
+	});
 
-$('a.favorites').click(function(){
-	$(a.favorites).unbind('hover mouseenter mouseleave');
-});
+	$('a.favorites').click(function(){
+		$('a.favorites').unbind('hover');
+	});
+
+})

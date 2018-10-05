@@ -1,0 +1,29 @@
+body {
+	background-color: #222;
+}
+
+a.favorites > img {
+	box-shadow: 2px 2px 8px #000;
+}
+
+.container {
+	background-color:  #111;
+}
+
+.favorites > img:hover {
+	box-shadow: 2px 2px 8px #000;
+}
+
+.toggle > img {
+	filter: opacity(80%) grayscale(100%);
+	transition: filter;
+	z-index: -1;
+}
+
+#light_switch {
+	opacity: 1.0;
+}
+
+#dark_switch {
+	opacity: 0.5;
+}

@@ -4,6 +4,8 @@
 		<meta charset="UTF-8">
 		<title>Safari Favorites</title>
 		<link rel="stylesheet" href="./assets/css/styles.css">
+		<link id="alter" rel="stylesheet" href="./assets/css/circle.css">
+		<link rel="stylesheet" href="./assets/css/light.css">
 		<script type="application/javascript" src="./lib/jquery-3.2.1.min.js"></script>
 	</head>
 
@@ -18,6 +20,11 @@
 				<input autocomplete="on" class="form-control search" name="q" placeholder="You can search here!" required="required"  type="text">
 				<button class="button" type="submit">Search</button>
 			</form>
+
+			<img id="square_switch" class="switch" src="img/switch.png" alt="Square View Switch" title="Toggle Square View Switch">
+			<img id="circle_switch" class="switch" src="img/switch.png" alt="Circle View Switch" title="Toggle Circle View Switch">
+			<img id="dark_switch" class="switch" src="img/switch.png" alt="Dark Mode View Switch" title="Toggle Dark Mode Switch">
+			<img id="light_switch" class="switch" src="img/switch.png" alt="Circle Mode View Switch" title="Toggle Mode View Switch">
 		</div>
 		
 
@@ -568,8 +575,9 @@
 			<div class="emptyCells"></div>
 		</div>
 
-<!-- 		<script type="application/javascript" src="./assets/js/touchDevice.js"></script>
- -->		<script type="application/javascript" src="./assets/js/transition.js"></script>
+		<script type="application/javascript" src="./assets/js/touchDevice.js"></script>
+		<script type="application/javascript" src="./assets/js/transition.js"></script>
+		<script type="application/javascript" src="./assets/js/alterView.js"></script>
 
 	</body>
 </html>
