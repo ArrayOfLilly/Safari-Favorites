@@ -1,18 +1,18 @@
 List:
 
-- [ ] MyAirBridge
+- [x] MyAirBridge
 - [ ] Flaticon
 - [ ] FreePic
 - [ ] Poolga
 - [ ] Vladstudio
-- [ ] OSXDaily
+- [x] OSXDaily
 - [ ] Notebookreview
 - [ ] 500px
 - [ ] pexels
 - [ ] pixabay
 
 - [ ] lorem ipsum
-- [ ] unsplash
+- [x] unsplash
 - [ ] flickr
 - [ ] wallpaperswide
 - [ ] whatfontis
@@ -23,29 +23,29 @@ List:
 - [ ] urbanfonts
 
 - [ ] literotica
-- [ ] wikipedia
+- [x] wikipedia
 - [ ] xnxx
 - [ ] banggood
 - [ ] aliexpress
 - [ ] uag
-- [ ] jsfiddler
+- [x] jsfiddler
 - [ ] aqua
 - [ ] 99design
 - [ ] http://allfont.net
 
-- [ ] pizza.hu
+- [x] pizza.hu
 - [ ] hennes
 - [ ] mango
 - [ ] tezenis
 - [ ] pull bear
 - [ ] zara
-- [ ] ? - bolt
+- [ ] promod
 - [ ] paypal
 - [ ] imgur
 - [ ] energo
 
 - [ ] radicalsmart
-- [ ] arrayoflilly
+- [x] arrayoflilly
 - [ ] ugyfelkapu
 - [ ] posta
 - [ ] soundhound
@@ -56,7 +56,7 @@ List:
 - [ ] raywenderlich
 
 - [ ] instagram
-- [ ] twitter
+- [x] twitter
 - [ ] microsoftonline
 - [ ] bighost
 - [ ] interworx

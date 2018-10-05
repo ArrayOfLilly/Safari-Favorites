@@ -10,11 +10,11 @@ a.favorites > img {
 	background-color:  #111;
 }
 
-.favorites > img:hover {
+body.hasHover .favorites > img:hover {
 	box-shadow: 2px 2px 8px #000;
 }
 
-.toggle > img {
+body.hasHover .toggle > img {
 	filter: opacity(80%) grayscale(100%);
 	transition: filter;
 	z-index: -1;

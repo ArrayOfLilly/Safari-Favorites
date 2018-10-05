@@ -23,11 +23,11 @@ a.favorites > img {
 	height: 0;
 }
 
-.toggle > img {
+body.hasHover .toggle > img {
 	z-index: -1;
 }
 
-.favorites > img:hover {
+body.hasHover .favorites > img:hover {
 	position: relative;
 	filter: opacity(100%);
 	transition: filter;

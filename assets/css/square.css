@@ -2,7 +2,7 @@ a.favorites > img {
 	border-radius: 3px;
 }
 
-.favorites > img:hover {
+body.hasHover .favorites > img:hover {
 	transform: scale(1.5);
 	border-radius: 75px;
 }
