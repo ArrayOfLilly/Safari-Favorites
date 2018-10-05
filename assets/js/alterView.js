@@ -14,12 +14,12 @@ $(document).ready(function(){
 
 	$("#dark_switch").click(function(){
 		$('link[href="./assets/css/light.css"]').attr({href : "./assets/css/dark.css"});
-		$('img[src="img/switch.png"]').attr({src : "img/switch_light.png"})
+		$('img[src="./img/switch.png"]').attr({src : "./img/switch_light.png"})
 	});
 
 	$("#light_switch").click(function(){
 		$('link[href="./assets/css/dark.css"]').attr({href : "./assets/css/light.css"});
-		$('img[src="img/switch_light.png"]').attr({src : "img/switch.png"})
+		$('img[src="./img/switch_light.png"]').attr({src : "./img/switch.png"})
 	});
 
 
