@@ -11,6 +11,11 @@ $(document).ready(function() {
 	           || navigator.maxTouchPoints > 0
 	           || navigator.msMaxTouchPoints > 0;
 	}
+	
+	if (hasTouch()) {
+		    $('#colorful_sw').css("display" "none");
+		    $('#gray_sw').css("display" "none");
+	}
 
 
 	if (!hasTouch()) {
@@ -50,7 +55,6 @@ $(document).ready(function() {
 	}
 
 	watchForHover();
-
 
 
 

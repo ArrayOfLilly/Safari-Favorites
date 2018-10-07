@@ -56,7 +56,7 @@ List:
 - [ ] raywenderlich
 
 - [ ] instagram
-- [x] twitter
+- [ ] twitter
 - [ ] microsoftonline
 - [ ] bighost
 - [ ] interworx

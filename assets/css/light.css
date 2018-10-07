@@ -6,7 +6,7 @@ a.fav_link > img {
 	box-shadow: 2px 2px 8px #bbb;
 }
 
-.container, .search_container {
+.container, .search_container, .nav_container {
 	background-color:  #eee;
 }
 
@@ -20,4 +20,12 @@ body.hasHover .toggle > img {
 
 .selected {
 	border: 2px solid #888;
+}
+
+.nav_group a {
+	color: #888;
+}
+
+.active a {
+	color: #333;
 }

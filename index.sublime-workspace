@@ -449,14 +449,6 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/etc"
-	],
 	"file_history":
 	[
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/etc/order.txt",
@@ -604,17 +596,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"blank\">\n\t\t\t\t<img src=\"img/",
-			"_blank\">\n\t\t\t\t\t<img src=\"img/",
-			"switch\" src=\"./img/",
-			"<div>",
-			"favorites",
-			"row",
-			"col-lg",
-			"col-md",
-			"col-sm",
-			"<img",
-			"img"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -689,7 +670,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "SafariFavorites.sublime-project",
+	"project": "index.sublime-project",
 	"replace":
 	{
 		"height": 42.0

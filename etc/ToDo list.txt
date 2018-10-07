@@ -1,5 +1,6 @@
 - [x] order
-- [ ] grouping with group images
+- [x] grouping
+- [x] touch device-on letiltani a hover effect ikonját
 - [ ] drag n' drop
 - [ ] more link images
 - [ ] DB 

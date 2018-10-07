@@ -3,46 +3,54 @@ Gmail
 Google Maps
 Google Translate
 Urban Dictionary
+Wikipedia
 
-imdb
-HBO
-Plex
 youtube
+plex
+hbo
+imdb
 Bandcamp
 Steam
+
 Mac-Torrent-Download
 TPB
 nCore
 insane
 
-CL
-DeviantArt
-InterfaceLIFT
-Pinterest
-Twitter
-Reddit
-Tumblr
-Facebook
-Dropbox
-OneDrive
-iCloud
-
-Index.hu
 444
+Index.hu
 HVG
 Magyar Narancs
 Örülünk, Vincent?
 Egyharmad.net
-Lobster
 Csakazolvassa.hu
+Lobster
+
+CL
+arrayoflilly.com
+DeviantArt
+InterfaceLIFT
+Unsplash
+Pinterest
+
+Reddit
+Tumblr
+Facebook
+
+Dropbox
+OneDrive
+iCloud
+MyAirBridge
+
 
 Prohardver
 Hardverapró
 iMagazin
 Macrumors
-MUO
 iMore
 9to5Mac
+MUO
+OSXDailly
 
 Lynda.com
 Udemy
@@ -50,8 +58,10 @@ W3School
 MDN
 Stack Oweflow
 Smashing Magazine
+
 Github
 jQuery
+JSFiddle
 Bootstrap
 Semantic UI
 Font Awesome
@@ -67,8 +77,10 @@ Dijnet
 NKM
 Számlázz.hu
 E-napló
+
+pizza.hu
+ebay
 Amazon
-Ebay
 Apple.hu
 istyle.hu
 Media Markt
