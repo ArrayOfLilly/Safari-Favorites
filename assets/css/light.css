@@ -2,28 +2,28 @@ body {
 	background-color: #ddd;
 }
 
-a.favorites > img {
+a.fav_link > img {
 	box-shadow: 2px 2px 8px #bbb;
 }
 
-.container {
+.container, .search_container {
 	background-color:  #eee;
 }
 
-body.hasHover .favorites > img:hover {
+body.hasHover .fav_link > img:hover {
 	box-shadow: 2px 2px 8px #666;
 }
 
 body.hasHover .toggle > img {
 	filter: opacity(60%) grayscale(40%);
-	transition: filter 2s;
+	transition: filter;
 	z-index: -1;
 }
 
-#light_switch {
+#light_sw {
 	opacity: 0.1;
 }
 
-#dark_switch {
+#dark_sw {
 	opacity: 0.7;
 }

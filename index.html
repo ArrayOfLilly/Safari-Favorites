@@ -1,13 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html class="no-js" lang="">
 	<head>
-		<meta charset="UTF-8">
-		<title>Safari Favorites</title>
-		<link rel="stylesheet" href="./assets/css/styles.css">
+		<meta charset="utf-8">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<title>Speed Dial</title>
+<!-- 		<meta name="viewport" content="width=device-width, initial-scale=1">
+ -->	<link rel="stylesheet" href="./assets/css/main.css">
 		<link id="alter" rel="stylesheet" href="./assets/css/circle.css">
 		<link rel="stylesheet" href="./assets/css/dark.css">
-		
-		<script src="./lib/jquery-3.2.1.min.js"></script>
 
 		<link rel="apple-touch-icon" sizes="57x57" href="./favicon/apple-icon-57x57.png">
 		<link rel="apple-touch-icon" sizes="60x60" href="./favicon/apple-icon-60x60.png">
@@ -27,573 +27,489 @@
 		<meta name="msapplication-TileImage" content="./favicon/ms-icon-144x144.png">
 		<meta name="theme-color" content="#ffffff">
 	</head>
-
 	<body>
-		<div class="container" id="searchContainer">
-			<a href="https://www.google.com" target="_blank">
-				<img id="goo" src="img/google.svg" alt="Google" title="Google">
-			</a>
 
-			<form action="https://www.google.com/search" class="searchform" method="get" name="searchform" target="_blank">
-				<input name="search" type="hidden" value="">
-				<input autocomplete="on" class="form-control search" name="q" placeholder="You can search here!" required="required"  type="text">
-				<button class="button" type="submit">Search</button>
-			</form>
+		<div class="search_container">
+			<div class="logo_item">
+				<a href="https://www.google.com" target="_blank">
+					<img src="img/google.svg" alt="Google" title="Google">
+				</a>
+			</div>
 
-			<img id="square_switch" class="switch" src="./img/switch_light.png" alt="Square View Switch" title="Toggle Square View Switch">
-			<img id="circle_switch" class="switch" src="./img/switch_light.png" alt="Circle View Switch" title="Toggle Circle View Switch">
-			<img id="dark_switch" class="switch" src="./img/switch_light.png" alt="Dark Mode Switch" title="Toggle Dark Mode Switch">
-			<img id="light_switch" class="switch" src="./img/switch_light.png" alt="Light Mode Switch" title="Toggle Light Mode Switch">
+			<div class="form_item">
+				<form action="https://www.google.com/search" class="searchform" method="get" name="searchform" target="_blank">
+					<input name="search" type="hidden" value="">
+						<input autocomplete="on" class="form-control search" name="q" placeholder="You can search here!" required="required"  type="text">
+					<button class="button" type="submit">Search</button>
+				</form>
+			</div>
+
+			<div class="settings_item">
+				<img id="square_sw" class="switch" src="./img/switch_light.png" alt="Square View Switch" title="Toggle Square View Switch">
+				<img id="circle_sw" class="switch" src="./img/switch_light.png" alt="Circle View Switch" title="Toggle Circle View Switch">
+				<img id="dark_sw" class="switch" src="./img/switch_light.png" alt="Dark Mode Switch" title="Toggle Dark Mode Switch">
+				<img id="light_sw" class="switch" src="./img/switch_light.png" alt="Light Mode Switch" title="Toggle Light Mode Switch">
+			</div>
+
+
 		</div>
 		
-
 		<div class="container">
-
-		<!-- ***************************************
-			Search
-			****************************************
--->
-			<div>
-				<a class="favorites" href="https://www.google.com" target="_blank">
+			<!-- ***************************************
+				 Search
+				 ****************************************
+			-->
+			<div class="item">
+				<a class="fav_link" href="https://www.google.com" target="_blank">
 					<img src="img/icon_24.png" alt="Google" title="Google">
 				</a>
 			</div>
-
-			<div>
-				<a class="favorites" href="https://mail.google.com" target="_blank">
+			<div class="item">
+				<a class="fav_link" href="https://mail.google.com" target="_blank">
 					<img src="img/icon_22.png" alt="Gmail" title="Gmail">
 				</a>
 			</div>
-
-			<div>
-				<a class="favorites" href="https://www.google.com/maps" target="_blank">
+			<div class="item">
+				<a class="fav_link" href="https://www.google.com/maps" target="_blank">
 					<img src="img/icon_42.png" alt="Google Maps" title="Google Maps">
 				</a>
 			</div>
-
-			<div>
-				<a class="favorites" href="https://translate.google.com" target="_blank">
+			<div class="item">
+				<a class="fav_link" href="https://translate.google.com" target="_blank">
 					<img src="img/icon_23.png" alt="Google Translate" title="Google Translate">
 				</a>
 			</div>
-
-			<div>
-				<a class="favorites" href="https://www.urbandictionary.com" target="_blank">
+			<div class="item">
+				<a class="fav_link" href="https://www.urbandictionary.com" target="_blank">
 					<img src="img/icon_67.png" alt="Urban Dictionary" title="Urban Dictionary">
 				</a>
 			</div>
-
-			<div>
-				<a class="favorites" href="https://en.wikipedia.org/wiki/Main_Page" target="_blank">
+			<div class="item">
+				<a class="fav_link" href="https://en.wikipedia.org/wiki/Main_Page" target="_blank">
 					<img src="img/icon_75.png" alt="Wikipedia" title="Wikipedia">
 				</a>
 			</div>
-
-
-<!-- 		***************************************
-			Entertainment
-			***************************************
- -->
-			<div>
-				<a class="favorites" href="https://www.youtube.com" target="_blank">
-					<img src="img/icon_69.png" alt="YouTube" title="YouTube">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://www.plex.tv" target="_blank">
-					<img src="img/icon_53.png" alt="Plex.tv" title="Plex.tv">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://hbogo.hu" target="_blank">
-					<img src="img/icon_26.png" alt="HBO GO" title="HBO GO">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://www.imdb.com" target="_blank">
-					<img src="img/icon_30.png" alt="IMDB" title="IMDB">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://bandcamp.com" target="_blank">
-					<img src="img/icon_6.png" alt="Bandcamp" title="Bandcamp">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://steamcommunity.com" target="_blank">
-					<img src="img/icon_59.png" alt="Steam" title="Steam">
-				</a>
-			</div>
-
-
-<!-- 		***************************************
-			Aquisition
-			***************************************
- -->
-			<div>
-				<a class="favorites" href="http://mac-torrent-download.net" target="_blank">
-					<img src="img/icon_38.png" alt="Mac-Torrent-Download.net" title="Mac-Torrent-Download.net">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://thepiratebay3.org" target="_blank">
-					<img src="img/icon_63.png" alt="The Pirate Bay" title="The Pirate Bay">
-				</a>
-			</div>
-
-
-			<div>
-				<a class="favorites" href="https://ncore.cc" target="_blank">
-					<img src="img/icon_46.png" alt="nCore" title="nCore">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://newinsane.info" target="_blank">
-					<img src="img/icon_48.png" alt="Insane Tracker" title="Insane Tracker">
-				</a>
-			</div>
-
-
-<!-- 		***************************************
-			Read
-			***************************************
- -->
-			<div>
-				<a class="favorites" href="https://444.hu" target="_blank">
-					<img src="img/icon_1.png" alt="444.hu" title="444.hu">
-				</a>
-			</div>
-			
-			<div>
-				<a class="favorites" href="https://index.hu" target="_blank">
-					<img src="img/icon_32.png" alt="Index.hu" title="Index.hu">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://hvg.hu" target="_blank">
-					<img src="img/icon_27.png" alt="HVG" title="HVG">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://magyarnarancs.hu" target="_blank">
-					<img src="img/icon_40.png" alt="Magyar Narancs" title="Magyar Narancs">
-				</a>
-			</div>
-	
-			<div>
-				<a class="favorites" href="https://orulunkvincent.blog.hu" target="_blank">
-					<img src="img/icon_51.png" alt="Örülünk, Vincent? blog" title="Örülünk, Vincent? blog">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://egyharmad.net" target="_blank">
-					<img src="img/icon_17.png" alt="Egyharmad.net Blog" title="Egyharmad.net Blog">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://csakazolvassa.hu" target="_blank">
-					<img src="img/icon_11.png" alt="Csakazolvassa.hu" title="Csakazolvassa.hu">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://oriblog.blog.hu" target="_blank">
-					<img src="img/icon_36.png" alt="Lobsterizmus - oriblog.blog.hu" title="Lobsterizmus - oriblog.blog.hu">
-				</a>
-			</div>
-
-<!-- 
-			***************************************
-			Design
-			***************************************
- -->
-			<div>
-				<a class="favorites" href="http://www.colourlovers.com" target="_blank">
-					<img src="img/icon_10.png" alt="ColourLovers.com" title="ColourLovers.com">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="http://www.arrayoflilly.com" target="_blank">
-					<img src="img/icon_70.png" alt="ArrayOfLilly.com - My Colorful Creations" title="ArrayOfLilly.com - My Colorful Creations">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://www.deviantart.com" target="_blank">
-					<img src="img/icon_12.png" alt="DeviantArt" title="DeviantArt">
-				</a>
-			</div>
-	
-			<div>
-				<a class="favorites" href="https://interfacelift.com" target="_blank">
-					<img src="img/icon_33.png" alt="InterfaceLIFT" title="InterfaceLIFT">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://unsplash.com" target="_blank">
-					<img src="img/icon_74.png" alt="Unsplash - Free HD Images" title="Unsplash - Free HD Images">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://hu.pinterest.com" target="_blank">
-					<img src="img/icon_52.png" alt="Pinterest" title="Pinterest">
-				</a>
-			</div>
-	
-
-<!-- 		***************************************
-			Social
-			***************************************
- -->
-			<div>
-				<a class="favorites" href="https://reddit.com" target="_blank">
-					<img src="img/icon_55.png" alt="Reddit" title="Reddit">
-				</a>
-			</div>
-	
-			<div>
-				<a class="favorites" href="https://www.tumblr.com" target="_blank">
-					<img src="img/icon_64.png"  alt="Tumblr" title="Tumblr">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://www.facebook.com" target="_blank">
-					<img src="img/icon_19.png" alt="Facebook" title="Facebook">
-				</a>
-			</div>
-
-
-<!-- 		***************************************
-			Cloud
-			*************************************** 
--->
-
-			<div>
-				<a class="favorites" href="https://www.dropbox.com/" target="_blank">
-					<img src="img/icon_14.png" alt="Dropbox.com" title="Dropbox.com">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://onedrive.live.com/about/en-us/signin/" target="_blank">
-					<img src="img/icon_50.png" alt="OneDrive" title="OneDrive">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://www.icloud.com" target="_blank">
-					<img src="img/icon_28.png" alt="iCloud" title="iCloud">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://www.myairbridge.com/en/" target="_blank">
-					<img src="img/icon_71.png" alt="MyAirBridge" title="MyAirBridge">
-				</a>
-			</div>
-
-
-<!-- 		***************************************
-			IT Tabloid
-			***************************************
- -->
-			<div>
-				<a class="favorites" href="https://prohardver.hu/forum/index.html" target="_blank">
-					<img src="img/icon_54.png" alt="Prohardver Fórum" title="Prohardver Fórum">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://hardverapro.hu/index.html" target="_blank">
-					<img src="img/icon_25.png" alt="HardverApró" title="HardverApró">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="http://imagazin.hu" target="_blank">
-					<img src="img/icon_29.png" alt="iMagazin" title="iMagazin">
-				</a>
-			</div>
-	
-			<div>
-				<a class="favorites" href="https://forums.macrumors.com" target="_blank">
-					<img src="img/icon_39.png" alt="MacRumours Forum" title="MacRumours Forum">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://www.imore.com" target="_blank">
-					<img src="img/icon_31.png" alt="iMore" title="iMore">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://9to5mac.com" target="_blank">
-					<img src="img/icon.png" alt="9to5Mac" title="oto5Mac">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://www.makeuseof.com" target="_blank">
-					<img src="img/icon_41.png" alt="MakeUseOf" title="MakeUseOf">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="http://osxdaily.com" target="_blank">
-					<img src="img/icon_72.png" alt="OSXDaily" title="OSXDaily">
-				</a>
-			</div>
-
-
-<!-- 		***************************************
-			Learn
-			***************************************
- -->
-			<div>
-				<a class="favorites" href="https://www.lynda.com" target="_blank">
-					<img src="img/icon_37.png" alt="Lynda.com" title="Lynda.com">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://www.udemy.com" target="_blank">
-					<img src="img/icon_65.png"  alt="Udemy" title="Udemy">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://www.w3schools.com" target="_blank">
-					<img src="img/icon_68.png" alt="W3Schools" title="W3Schools">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://developer.mozilla.org/en-US/docs/Learn" target="_blank">
-					<img src="img/icon_43.png" alt="Mozilla Developer Network" title="Mozilla Developer Network">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://stackoverflow.com" target="_blank">
-					<img src="img/icon_58.png" alt="Stack Overflow" title="Stack Overflow">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://www.smashingmagazine.com" target="_blank">
-					<img src="img/icon_57.png" alt="Smashing Magazine" title="Smashing Magazine">
-				</a>
-			</div>
-
-
-<!-- 		***************************************
-			Development
-			***************************************
- -->
-			<div>
-				<a class="favorites" href="https://github.com/explore" target="_blank">
-					<img src="img/icon_21.png" alt="GitHub" title="GitHub">
-				</a>
-			</div>
-	
-			<div>
-				<a class="favorites" href="http://jquery.com" target="_blank">
-					<img src="img/icon_35.png" alt="jQuery" title="jQuery">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://jsfiddle.net" target="_blank">
-					<img src="img/icon_73.png" alt="JSFiddle" title="JSFiddle">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="http://getbootstrap.com/docs/4.1/getting-started/introduction/" target="_blank">
-					<img src="img/icon_7.png" alt="Bootstrap" title="Bootstrap">
-				</a>
-			</div>
 		
-			<div>
-				<a class="favorites" href="https://semantic-ui.com" target="_blank">
-					<img src="img/icon_56.png" alt="Semantic UI" title="Semantic UI">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://fontawesome.com" target="_blank">
-					<img src="img/icon_20.png" alt="Font Awesome" title="Font Awesome">
-				</a>
-			</div>
-		
-			<div>
-				<a class="favorites" href="https://www.mongodb.com" target="_blank">
-					<img src="img/icon_45.png" alt="MongoDB" title="MongoDB">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://www.npmjs.com" target="_blank">
-					<img src="img/icon_49.png" alt="npm" title="npm">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://swift.org" target="_blank">
-					<img src="img/icon_60.png" alt="Swift Community" title="Swift Community">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://cocoapods.org" target="_blank">
-					<img src="img/icon_9.png" alt="Cocoapods" title="Cocoapods">
-				</a>
-			</div>
-
-  
-
-<!-- 		***************************************
-			Alimentary
-			***************************************
- -->
-			<div>
-				<a class="favorites" href="https://www.cib.hu" target="_blank">
-					<img src="img/icon_8.png" alt="CIB Bank" title="CIB Bank">
-				</a>
-			</div>
-			<div>
-				<a class="favorites" href="https://www.telekom.hu" target="_blank">
-					<img src="img/icon_62.png" alt="Telekom" title="Telekom">
-				</a>
-			</div>
-			<div>
-				<a class="favorites" href="https://www.upc.hu" target="_blank">
-					<img src="img/icon_66.png" alt="UPC" title="UPC">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://www.dijnet.hu" target="_blank">
-					<img src="img/icon_13.png" alt="Díjnet.hu" title="Díjnet.hu">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://www.nemzetikozmuvek.hu" target="_blank">
-					<img src="img/icon_47.png" alt="Nemzeti Közművek" title="Nemzeti Közművek">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://www.szamlazz.hu/szamla/main" target="_blank">
-					<img src="img/icon_61.png" alt="Számlázz.hu" title="Számlázz.hu">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://enaplo.e-epites.hu/enaplo/" target="_blank">
-					<img src="img/icon_15.png" alt="Építési napló" title="Építési napló">
-				</a>
-			</div>
-
-
-<!-- 		***************************************
-			Shop
-			***************************************
- -->
-			<div>
-				<a class="favorites" href="https://www.pizza.hu" target="_blank">
-					<img src="img/icon_76.png" alt="Pizza.hu" title="Pizza.hu">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://www.ebay.com" target="_blank">
-					<img src="img/icon_16.png" alt="Ebay.com" title="Ebay.com">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://www.amazon.com" target="_blank">
-					<img src="img/icon_3.png" alt="Amazon.com" title="Amazon.com">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://www.apple.com/hu/" target="_blank">
-					<img src="img/icon_4.png" alt="Apple.hu" title="Apple.hu">
-				</a>
-			</div>
-		
-			<div>
-				<a class="favorites" href="https://istyle.hu" target="_blank">
-					<img src="img/icon_34.png" alt="iStyle" title="iStyle">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://www.mediamarkt.hu" target="_blank">
-					<img src="img/icon_44.png" alt="Media Markt webshop" title="Media Markt webshop">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://edigital.hu" target="_blank">
-					<img src="img/icon_18.png" alt="Extreme Digital" title="Extreme Digital">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://www.alza.hu" target="_blank">
-					<img src="img/icon_2.png" alt="Alza.hu webshop" title="Alza.hu webshop">
-				</a>
-			</div>
-
-			<div>
-				<a class="favorites" href="https://www.arukereso.hu" target="_blank">
-					<img src="img/icon_5.png" alt="Árukereső.hu" title="Árukereső.hu">
-				</a>
-			</div>
-
-
-			<div class="emptyCells"></div>
-			<div class="emptyCells"></div>
-			<div class="emptyCells"></div>
-			<div class="emptyCells"></div>
-			<div class="emptyCells"></div>
-			<div class="emptyCells"></div>
-			<div class="emptyCells"></div>
-			<div class="emptyCells"></div>
-			<div class="emptyCells"></div>
-			<div class="emptyCells"></div>
-			<div class="emptyCells"></div>
-			<div class="emptyCells"></div>
-			<div class="emptyCells"></div>
-			<div class="emptyCells"></div>
-			<div class="emptyCells"></div>
-			<div class="emptyCells"></div>
-			<div class="emptyCells"></div>
-			<div class="emptyCells"></div>
-			<div class="emptyCells"></div>
-			<div class="emptyCells"></div>
+		<!-- ***************************************
+			 Entertainment
+			 ***************************************
+		-->
+		<div class="item">
+			<a class="fav_link" href="https://www.youtube.com" target="_blank">
+				<img src="img/icon_69.png" alt="YouTube" title="YouTube">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://www.plex.tv" target="_blank">
+				<img src="img/icon_53.png" alt="Plex.tv" title="Plex.tv">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://hbogo.hu" target="_blank">
+				<img src="img/icon_26.png" alt="HBO GO" title="HBO GO">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://www.imdb.com" target="_blank">
+				<img src="img/icon_30.png" alt="IMDB" title="IMDB">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://bandcamp.com" target="_blank">
+				<img src="img/icon_6.png" alt="Bandcamp" title="Bandcamp">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://steamcommunity.com" target="_blank">
+				<img src="img/icon_59.png" alt="Steam" title="Steam">
+			</a>
 		</div>
 
+		<!-- ***************************************
+			 Aquisition
+			 ***************************************
+		-->
+		<div class="item">
+			<a class="fav_link" href="http://mac-torrent-download.net" target="_blank">
+				<img src="img/icon_38.png" alt="Mac-Torrent-Download.net" title="Mac-Torrent-Download.net">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://thepiratebay3.org" target="_blank">
+				<img src="img/icon_63.png" alt="The Pirate Bay" title="The Pirate Bay">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://ncore.cc" target="_blank">
+				<img src="img/icon_46.png" alt="nCore" title="nCore">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://newinsane.info" target="_blank">
+				<img src="img/icon_48.png" alt="Insane Tracker" title="Insane Tracker">
+			</a>
+		</div>
+
+		<!-- ***************************************
+			 Read
+			 ***************************************
+		-->
+		<div class="item">
+			<a class="fav_link" href="https://444.hu" target="_blank">
+				<img src="img/icon_1.png" alt="444.hu" title="444.hu">
+			</a>
+		</div>
+		
+		<div class="item">
+			<a class="fav_link" href="https://index.hu" target="_blank">
+				<img src="img/icon_32.png" alt="Index.hu" title="Index.hu">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://hvg.hu" target="_blank">
+				<img src="img/icon_27.png" alt="HVG" title="HVG">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://magyarnarancs.hu" target="_blank">
+				<img src="img/icon_40.png" alt="Magyar Narancs" title="Magyar Narancs">
+			</a>
+		</div>
+		
+		<div class="item">
+			<a class="fav_link" href="https://orulunkvincent.blog.hu" target="_blank">
+				<img src="img/icon_51.png" alt="Örülünk, Vincent? blog" title="Örülünk, Vincent? blog">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://egyharmad.net" target="_blank">
+				<img src="img/icon_17.png" alt="Egyharmad.net Blog" title="Egyharmad.net Blog">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://csakazolvassa.hu" target="_blank">
+				<img src="img/icon_11.png" alt="Csakazolvassa.hu" title="Csakazolvassa.hu">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://oriblog.blog.hu" target="_blank">
+				<img src="img/icon_36.png" alt="Lobsterizmus - oriblog.blog.hu" title="Lobsterizmus - oriblog.blog.hu">
+			</a>
+		</div>
+
+		<!-- ***************************************
+			 Design
+			 ***************************************
+		-->
+		<div class="item">
+			<a class="fav_link" href="http://www.colourlovers.com" target="_blank">
+				<img src="img/icon_10.png" alt="ColourLovers.com" title="ColourLovers.com">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="http://www.arrayoflilly.com" target="_blank">
+				<img src="img/icon_70.png" alt="ArrayOfLilly.com - My Colorful Creations" title="ArrayOfLilly.com - My Colorful Creations">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://www.deviantart.com" target="_blank">
+				<img src="img/icon_12.png" alt="DeviantArt" title="DeviantArt">
+			</a>
+		</div>
+		
+		<div class="item">
+			<a class="fav_link" href="https://interfacelift.com" target="_blank">
+				<img src="img/icon_33.png" alt="InterfaceLIFT" title="InterfaceLIFT">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://unsplash.com" target="_blank">
+				<img src="img/icon_74.png" alt="Unsplash - Free HD Images" title="Unsplash - Free HD Images">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://hu.pinterest.com" target="_blank">
+				<img src="img/icon_52.png" alt="Pinterest" title="Pinterest">
+			</a>
+		</div>
+		
+		<!-- ***************************************
+			 Social
+			 ***************************************
+		-->
+		<div class="item">
+			<a class="fav_link" href="https://reddit.com" target="_blank">
+				<img src="img/icon_55.png" alt="Reddit" title="Reddit">
+			</a>
+		</div>
+		
+		<div class="item">
+			<a class="fav_link" href="https://www.tumblr.com" target="_blank">
+				<img src="img/icon_64.png"  alt="Tumblr" title="Tumblr">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://www.facebook.com" target="_blank">
+				<img src="img/icon_19.png" alt="Facebook" title="Facebook">
+			</a>
+		</div>
+
+		<!-- ***************************************
+			 Cloud
+			 ***************************************
+		-->
+		<div class="item">
+			<a class="fav_link" href="https://www.dropbox.com/" target="_blank">
+				<img src="img/icon_14.png" alt="Dropbox.com" title="Dropbox.com">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://onedrive.live.com/about/en-us/signin/" target="_blank">
+				<img src="img/icon_50.png" alt="OneDrive" title="OneDrive">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://www.icloud.com" target="_blank">
+				<img src="img/icon_28.png" alt="iCloud" title="iCloud">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://www.myairbridge.com/en/" target="_blank">
+				<img src="img/icon_71.png" alt="MyAirBridge" title="MyAirBridge">
+			</a>
+		</div>
+
+		<!-- ***************************************
+			 IT Tabloid
+			 ***************************************
+		-->
+		<div class="item">
+			<a class="fav_link" href="https://prohardver.hu/forum/index.html" target="_blank">
+				<img src="img/icon_54.png" alt="Prohardver Fórum" title="Prohardver Fórum">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://hardverapro.hu/index.html" target="_blank">
+				<img src="img/icon_25.png" alt="HardverApró" title="HardverApró">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="http://imagazin.hu" target="_blank">
+				<img src="img/icon_29.png" alt="iMagazin" title="iMagazin">
+			</a>
+		</div>
+		
+		<div class="item">
+			<a class="fav_link" href="https://forums.macrumors.com" target="_blank">
+				<img src="img/icon_39.png" alt="MacRumours Forum" title="MacRumours Forum">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://www.imore.com" target="_blank">
+				<img src="img/icon_31.png" alt="iMore" title="iMore">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://9to5mac.com" target="_blank">
+				<img src="img/icon.png" alt="9to5Mac" title="oto5Mac">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://www.makeuseof.com" target="_blank">
+				<img src="img/icon_41.png" alt="MakeUseOf" title="MakeUseOf">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="http://osxdaily.com" target="_blank">
+				<img src="img/icon_72.png" alt="OSXDaily" title="OSXDaily">
+			</a>
+		</div>
+
+		<!-- ***************************************
+			 Learn
+		 	***************************************
+		-->
+		<div class="item">
+			<a class="fav_link" href="https://www.lynda.com" target="_blank">
+				<img src="img/icon_37.png" alt="Lynda.com" title="Lynda.com">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://www.udemy.com" target="_blank">
+				<img src="img/icon_65.png"  alt="Udemy" title="Udemy">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://www.w3schools.com" target="_blank">
+				<img src="img/icon_68.png" alt="W3Schools" title="W3Schools">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://developer.mozilla.org/en-US/docs/Learn" target="_blank">
+				<img src="img/icon_43.png" alt="Mozilla Developer Network" title="Mozilla Developer Network">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://stackoverflow.com" target="_blank">
+				<img src="img/icon_58.png" alt="Stack Overflow" title="Stack Overflow">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://www.smashingmagazine.com" target="_blank">
+				<img src="img/icon_57.png" alt="Smashing Magazine" title="Smashing Magazine">
+			</a>
+		</div>
+
+		<!-- ***************************************
+			 Development
+			 ***************************************
+		-->
+		<div class="item">
+			<a class="fav_link" href="https://github.com/explore" target="_blank">
+				<img src="img/icon_21.png" alt="GitHub" title="GitHub">
+			</a>
+		</div>
+		
+		<div class="item">
+			<a class="fav_link" href="http://jquery.com" target="_blank">
+				<img src="img/icon_35.png" alt="jQuery" title="jQuery">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://jsfiddle.net" target="_blank">
+				<img src="img/icon_73.png" alt="JSFiddle" title="JSFiddle">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="http://getbootstrap.com/docs/4.1/getting-started/introduction/" target="_blank">
+				<img src="img/icon_7.png" alt="Bootstrap" title="Bootstrap">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://semantic-ui.com" target="_blank">
+				<img src="img/icon_56.png" alt="Semantic UI" title="Semantic UI">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://fontawesome.com" target="_blank">
+				<img src="img/icon_20.png" alt="Font Awesome" title="Font Awesome">
+			</a>
+		</div>
+		
+		<div class="item">
+			<a class="fav_link" href="https://www.mongodb.com" target="_blank">
+				<img src="img/icon_45.png" alt="MongoDB" title="MongoDB">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://www.npmjs.com" target="_blank">
+				<img src="img/icon_49.png" alt="npm" title="npm">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://swift.org" target="_blank">
+				<img src="img/icon_60.png" alt="Swift Community" title="Swift Community">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://cocoapods.org" target="_blank">
+				<img src="img/icon_9.png" alt="Cocoapods" title="Cocoapods">
+			</a>
+		</div>
+		
+		<!-- ***************************************
+			 Alimentary
+			 ***************************************
+		-->
+		<div class="item">
+			<a class="fav_link" href="https://www.cib.hu" target="_blank">
+				<img src="img/icon_8.png" alt="CIB Bank" title="CIB Bank">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://www.telekom.hu" target="_blank">
+				<img src="img/icon_62.png" alt="Telekom" title="Telekom">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://www.upc.hu" target="_blank">
+				<img src="img/icon_66.png" alt="UPC" title="UPC">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://www.dijnet.hu" target="_blank">
+				<img src="img/icon_13.png" alt="Díjnet.hu" title="Díjnet.hu">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://www.nemzetikozmuvek.hu" target="_blank">
+				<img src="img/icon_47.png" alt="Nemzeti Közművek" title="Nemzeti Közművek">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://www.szamlazz.hu/szamla/main" target="_blank">
+				<img src="img/icon_61.png" alt="Számlázz.hu" title="Számlázz.hu">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://enaplo.e-epites.hu/enaplo/" target="_blank">
+				<img src="img/icon_15.png" alt="Építési napló" title="Építési napló">
+			</a>
+		</div>
+
+		<!-- ***************************************
+			 Shop
+			 ***************************************
+		-->
+		<div class="item">
+			<a class="fav_link" href="https://www.pizza.hu" target="_blank">
+				<img src="img/icon_76.png" alt="Pizza.hu" title="Pizza.hu">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://www.ebay.com" target="_blank">
+				<img src="img/icon_16.png" alt="Ebay.com" title="Ebay.com">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://www.amazon.com" target="_blank">
+				<img src="img/icon_3.png" alt="Amazon.com" title="Amazon.com">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://www.apple.com/hu/" target="_blank">
+				<img src="img/icon_4.png" alt="Apple.hu" title="Apple.hu">
+			</a>
+		</div>
+				<div class="item">
+			<a class="fav_link" href="https://istyle.hu" target="_blank">
+				<img src="img/icon_34.png" alt="iStyle" title="iStyle">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://www.mediamarkt.hu" target="_blank">
+				<img src="img/icon_44.png" alt="Media Markt webshop" title="Media Markt webshop">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://edigital.hu" target="_blank">
+				<img src="img/icon_18.png" alt="Extreme Digital" title="Extreme Digital">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://www.alza.hu" target="_blank">
+				<img src="img/icon_2.png" alt="Alza.hu webshop" title="Alza.hu webshop">
+			</a>
+		</div>
+		<div class="item">
+			<a class="fav_link" href="https://www.arukereso.hu" target="_blank">
+				<img src="img/icon_5.png" alt="Árukereső.hu" title="Árukereső.hu">
+			</a>
+		</div>
+
+	</div>
+		
+		<script src="./lib/jquery-3.2.1.min.js"></script>
 		<script src="./assets/js/touchDevice.js"></script>
 		<script src="./assets/js/transition.js"></script>
 		<script src="./assets/js/alterView.js"></script>

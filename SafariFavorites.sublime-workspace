@@ -4,8 +4,48 @@
 		"selected_items":
 		[
 			[
+				"padding",
+				"padding-right\t(styles.css)"
+			],
+			[
+				"just",
+				"justify-self"
+			],
+			[
 				"pa",
-				"padding-right"
+				"padding-top\t(styles.css)"
+			],
+			[
+				"box-",
+				"box-shadow\t(styles.css)"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"grid-",
+				"grid-template"
+			],
+			[
+				"co",
+				"container\t(speeddial.html)"
+			],
+			[
+				"sty",
+				"stylesheet"
+			],
+			[
+				"bo",
+				"border-box"
+			],
+			[
+				"con",
+				"content-three\t(index.html)"
+			],
+			[
+				"te",
+				"text-decoration"
 			],
 			[
 				"hov",
@@ -22,10 +62,6 @@
 			[
 				"toggle",
 				"toggleClass\t.toggleClass()"
-			],
-			[
-				"bo",
-				"border-radius"
 			],
 			[
 				"border",
@@ -58,10 +94,6 @@
 			[
 				"s",
 				"src\tAttr"
-			],
-			[
-				"co",
-				"container \tBootstrap 3 Class"
 			],
 			[
 				"bac",
@@ -102,10 +134,6 @@
 			[
 				"sp",
 				"space-between"
-			],
-			[
-				"ali",
-				"align-items"
 			],
 			[
 				"r",
@@ -194,10 +222,6 @@
 			[
 				"console",
 				"console.log\t(embedd.js)"
-			],
-			[
-				"con",
-				"console"
 			],
 			[
 				"cont",
@@ -335,7 +359,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 18429,
+				"buffer_size": 18516,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -352,6 +376,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"Snippet: ",
+				"Snippet: htmlboiler"
+			],
 			[
 				"Package Control: ",
 				"Package Control: Upgrade Package"
@@ -397,10 +425,6 @@
 				"Package Control: Install Package"
 			],
 			[
-				"Snippet: ",
-				"Snippet: Get Elements"
-			],
-			[
 				"Package Control: l",
 				"Package Control: List Packages"
 			],
@@ -444,22 +468,33 @@
 	],
 	"file_history":
 	[
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/touchDevice.js",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/transition.js",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/alterView.js",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/speeddial.html",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/styles.css",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/light.css",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/dark.css",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/sd_circle.css",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/circle.css",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/square.css",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/sd_main.css",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/sd_transition.js",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/index.html",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/sd_alterView.js",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/speeddial_main.css",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/speeddial_light.css",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/speeddial_dark.css",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/speeddial_touchDevice.js",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/dark.css",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/light.css",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/speeddial_square.css",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/speeddial_main.css",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/touchDevice.js",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/group_collapse.js",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/etc/ToDo list.txt",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/etc/img ToDo.txt",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/index.html",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/square.css",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/SafariFavorites.sublime-project",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/speeddial.html",
 		"/Users/ArrayOfLilly/Desktop/index.html",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/favicon/manifest.json",
 		"/Users/ArrayOfLilly/Desktop/4a58c1f334f0eff06655268132e2de5e.ico/manifest.json",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/alterView.js",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/transition.js",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/AtoZ.html",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/ordered.html",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/index.sublime-workspace",
@@ -560,18 +595,7 @@
 		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/02 Movie Search App/views/search.ejs",
 		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/APIs/movie_search_app/views/results.ejs",
 		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/02 Movie Search App/views/partials/header.ejs",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/APIs/movie_search_app/views/search.ejs",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/APIs/movie_search_app/views/search_.ejs",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/APIs/movie_search_app/app.js",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/02 Movie Search App/package.json",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/01 HTTP Request/http_request.js",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/01 HTTP Request/package.json",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/02 HTTP Request/http_request.js",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/01 Using API/movie_search_app.js",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/01 Using API/public/style.css",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/01 Using API/views/partials/footer.ejs",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/01 Using API/views/partials/header.ejs",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/01 Using API/views/home.ejs"
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/APIs/movie_search_app/views/search.ejs"
 	],
 	"find":
 	{
@@ -589,6 +613,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"<div>",
+			"favorites",
+			"row",
+			"col-lg",
+			"col-md",
+			"col-sm",
 			"<img",
 			"img"
 		],
@@ -614,51 +644,53 @@
 				{
 					"buffer": 0,
 					"file": "index.html",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 18429,
+						"buffer_size": 18516,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1858,
+								1858
 							]
 						],
 						"settings":
 						{
-							"SL.33.region_keys":
+							"SL.119.region_keys":
 							[
 								"SL.htmltidy.Highlights.|24e64401f663afbb9304929c746a3defc7749e58175ec672332a9f6e93168953|region.yellowish markup.warning.sublime_linter|32",
-								"SL.htmltidy.Highlights.|fa1b3c111f10c1fb82a3750bd5ba164c3b6c577d9126a72d380c3d7387ccd35c|region.yellowish markup.warning.sublime_linter|32",
-								"SL.htmltidy.Highlights.|1978d4a87a1eee7fec8dd397882cc13a6e5250c2680021525022d6ad9762b8a5|region.yellowish markup.warning.sublime_linter|32",
-								"SL.htmltidy.Highlights.|49521957f0f575b1f9b5692ef3eb7e32c1ade7588490e092e6f96230a19b0bcd|region.yellowish markup.warning.sublime_linter|32",
-								"SL.htmltidy.Highlights.|3c0b2f238b3e53c11e35f35badea2a5e19f66e2f5fddac319472d42d110a65ba|region.yellowish markup.warning.sublime_linter|32",
+								"SL.htmltidy.Highlights.|d3343ddec440efd0812b5bd542382b648873a2a3e80c70cfa2a4c8b7f3cbff7f|region.yellowish markup.warning.sublime_linter|32",
+								"SL.htmltidy.Highlights.|e47a925f38b2531793b61c445cf74be1c0b243ca0bfe36b6193fc902ca4a04df|region.yellowish markup.warning.sublime_linter|32",
 								"SL.htmltidy.Highlights.|001f7eb7fa3f31110e5669d20c1400587813ee6e40789ee1045fbd4f17ab46ae|region.yellowish markup.warning.sublime_linter|32",
 								"SL.htmltidy.Highlights.|6299c061a19022b259a2da5c7fb89e141623c005778a3d18a0e3081cebda8e43|region.yellowish markup.warning.sublime_linter|32",
 								"SL.htmltidy.Highlights.|94e08b15d41e440c2823a42113f3a750f3bc55a212c5d3cef0b4a8f623064a42|region.yellowish markup.warning.sublime_linter|32",
 								"SL.htmltidy.Highlights.|97c60af2ae21d158dab5a8e5cdeba5e1ff38c8494845211b7edc10dd113087f6|region.yellowish markup.warning.sublime_linter|32",
-								"SL.htmltidy.Highlights.|97c082e3d4166a384ee23412c0cd9337f6738d935ec753e4569056432abb98eb|region.yellowish markup.warning.sublime_linter|32",
-								"SL.htmltidy.Highlights.|eb42cfe5a5c3750e54720e01da18d10f9e03dcebb22eb13b125f9be191ca0573|region.yellowish markup.warning.sublime_linter|32",
+								"SL.htmltidy.Highlights.|3c4cb94040dbd9ba6bbd2150dc9def9ed518cf0328de32a1cc75f5b1c9ed38f7|region.yellowish markup.warning.sublime_linter|32",
+								"SL.htmltidy.Highlights.|62453efde446b481c64bd467589c520122498bfe8fdbb886b06238dac1a39788|region.yellowish markup.warning.sublime_linter|32",
 								"SL.htmltidy.Highlights.|789641e4df3a52d933a44509f083149baaac0e5b57b2fa68d7769d8df4bbcb77|region.yellowish markup.warning.sublime_linter|32",
 								"sublime_linter.protected_regions",
-								"SL.htmltidy.Highlights.|e25913e8125da2a863c2430e900e6bf715774559cd3173ae4de67669fe19006f|region.yellowish markup.warning.sublime_linter|32",
-								"SL.htmltidy.Highlights.|09db984bd233865f39dafe5495982f822844d877d997e571bd8ba029a26889dc|region.yellowish markup.warning.sublime_linter|32",
-								"SL.htmltidy.Highlights.|3c4cb94040dbd9ba6bbd2150dc9def9ed518cf0328de32a1cc75f5b1c9ed38f7|region.yellowish markup.warning.sublime_linter|32",
+								"SL.htmltidy.Highlights.|1db38fd6df02a133819ffe2ee6d142d9d419f3501d93d4f76077b17b26e22301|region.yellowish markup.warning.sublime_linter|32",
+								"SL.htmltidy.Highlights.|c9f4d5ba9177bf52083d19821d6ecaadc1df59489e564990cb374d58953f3d6d|region.yellowish markup.warning.sublime_linter|32",
+								"SL.htmltidy.Highlights.|1d95efbadb481252899146da4b87f713d2c6dcf12d7cdf794c98112dcb39ee49|region.yellowish markup.warning.sublime_linter|32",
+								"SL.htmltidy.Highlights.|4589221dcb75811661cb2f99f2f5155418c3dd4e47a21a2db0e076e6a6a40ff1|region.yellowish markup.warning.sublime_linter|32",
+								"SL.htmltidy.Highlights.|97c082e3d4166a384ee23412c0cd9337f6738d935ec753e4569056432abb98eb|region.yellowish markup.warning.sublime_linter|32",
 								"SL.htmltidy.Highlights.|565d2ce75395374056984730ce125b548ebf5f628530d530ac6b9c1fff3c0332|region.yellowish markup.warning.sublime_linter|32",
 								"SL.htmltidy.Highlights.|0679050543a20095e8cde8575e3a152b7e29e8e42f20c08b93d82d77e05d5bc7|region.yellowish markup.warning.sublime_linter|32",
 								"SL.htmltidy.Highlights.|483340f457dd18de20dd5c8c8c729781473047d7e09cde79bf899dda37c5094c|region.yellowish markup.warning.sublime_linter|32",
 								"SL.htmltidy.Highlights.|13d623c8ca3b982bcca2506360f83851109eecea29dcca974cdc4ef44a855bcd|region.yellowish markup.warning.sublime_linter|32",
-								"SL.htmltidy.Highlights.|cdeb4976611d3a99fa89b70c02b48d9356daf446f55843df7fc5038539e0d9f9|region.yellowish markup.warning.sublime_linter|32",
+								"SL.htmltidy.Highlights.|eebdbd4e48fea19b45aa621406de16edc5678097408f24d2f4fd1676fdac56b9|region.yellowish markup.warning.sublime_linter|32",
+								"SL.htmltidy.Highlights.|370d293c0cd77087ac9c8f31b5ff2559fc6078229627dfee214626b05e44df08|region.yellowish markup.warning.sublime_linter|32",
 								"SL.htmltidy.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
-								"SL.htmltidy.Highlights.|62453efde446b481c64bd467589c520122498bfe8fdbb886b06238dac1a39788|region.yellowish markup.warning.sublime_linter|32",
-								"SL.htmltidy.Highlights.|9a1a5bc3fa41e90708e7e5ecd375614ceefebef14b6c54ff1d0e86985f64ef54|region.yellowish markup.warning.sublime_linter|32"
+								"SL.htmltidy.Highlights.|9a1a5bc3fa41e90708e7e5ecd375614ceefebef14b6c54ff1d0e86985f64ef54|region.yellowish markup.warning.sublime_linter|32",
+								"SL.htmltidy.Highlights.|f210667476e64f3127925f647a5206258c071a7a6ef1194b5ddad7e765786633|region.yellowish markup.warning.sublime_linter|32"
 							],
+							"auto_complete": false,
 							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": 33,
+							"bracket_highlighter.clone": -1,
 							"bracket_highlighter.clone_locations":
 							{
 								"close":
@@ -751,12 +783,27 @@
 							{
 								"close":
 								{
+									"1":
+									[
+										1987,
+										1990
+									]
 								},
 								"icon":
 								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
 								},
 								"open":
 								{
+									"1":
+									[
+										1836,
+										1839
+									]
 								},
 								"unmatched":
 								{

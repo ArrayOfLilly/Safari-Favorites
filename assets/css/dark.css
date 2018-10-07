@@ -2,15 +2,15 @@ body {
 	background-color: #222;
 }
 
-a.favorites > img {
+a.fav_link > img {
 	box-shadow: 2px 2px 8px #000;
 }
 
-.container {
+.container, .search_container {
 	background-color:  #111;
 }
 
-body.hasHover .favorites > img:hover {
+body.hasHover .fav_link > img:hover {
 	box-shadow: 2px 2px 8px #000;
 }
 
@@ -20,10 +20,10 @@ body.hasHover .toggle > img {
 	z-index: -1;
 }
 
-#light_switch {
+#light_sw {
 	opacity: 1.0;
 }
 
-#dark_switch {
+#dark_sw {
 	opacity: 0.5;
 }
