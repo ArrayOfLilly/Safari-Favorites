@@ -14,14 +14,16 @@ $(document).ready(function(){
 
 	$("#dark_sw").click(function(){
 		$('link[href="./assets/css/light.css"]').attr({href : "./assets/css/dark.css"});
-		$('img[src="./img/switch.png"]').attr({src : "./img/switch_light.png"})
+		$('img[src="./img/icons/dark_switch_on_light_mdpi.png"]').attr({src : "./img/icons/dark_switch_on_dark_mdpi.png"});
+		$('img[src="./img/icons/light_switch_on_light_mdpi.png"]').attr({src : "./img/icons/light_switch_on_dark_mdpi.png"});
 		$("#dark_sw").addClass("selected");
 		$("#light_sw").removeClass("selected");
 	});
 
 	$("#light_sw").click(function(){
 		$('link[href="./assets/css/dark.css"]').attr({href : "./assets/css/light.css"});
-		$('img[src="./img/switch_light.png"]').attr({src : "./img/switch.png"})
+		$('img[src="./img/icons/dark_switch_on_dark_mdpi.png"]').attr({src : "./img/icons/dark_switch_on_light_mdpi.png"});
+		$('img[src="./img/icons/light_switch_on_dark_mdpi.png"]').attr({src : "./img/icons/light_switch_on_light_mdpi.png"});
 		$("#light_sw").addClass("selected");
 		$("#dark_sw").removeClass("selected");
 	});

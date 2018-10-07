@@ -18,14 +18,6 @@ body.hasHover .toggle > img {
 	z-index: -1;
 }
 
-#light_sw {
-	opacity: 1.0;
-}
-
-#dark_sw {
-	opacity: 0.25;
-}
-
 .selected {
-	border: 2px solid #fff;
+	border: 2px solid #888;
 }
