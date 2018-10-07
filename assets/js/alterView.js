@@ -1,5 +1,9 @@
 $(document).ready(function(){
 
+	$("#circle_sw").addClass("selected");
+	$("#dark_sw").addClass("selected");
+	$("#gray_sw").addClass("selected");
+
 	$("#square_sw").click(function(){
 		$('link[href="./assets/css/circle.css"]').attr({href : "./assets/css/square.css"});
 		$("#square_sw").addClass("selected");
