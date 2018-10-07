@@ -1,22 +1,12 @@
 $(document).ready(function() {
-    
-//     $('.hover').on('touchstart touchend', function(e) {
-//         e.preventDefault();
-//         $(this).removeClass('favorites');
-//     });
-
+	document.getElementById('colorful_sw').style.display = "none";
+	document.getElementById('gray_sw').style.display = "none";
 
 	function hasTouch() {
 	    return 'ontouchstart' in document.documentElement
 	           || navigator.maxTouchPoints > 0
 	           || navigator.msMaxTouchPoints > 0;
 	}
-	
-	if (hasTouch()) {
-		    $('#colorful_sw').css("display" "none");
-		    $('#gray_sw').css("display" "none");
-	}
-
 
 	if (!hasTouch()) {
 	    document.body.className += ' hasHover';
@@ -34,6 +24,9 @@ $(document).ready(function() {
 
 	        container.className += ' hasHover';
 	        hasHoverClass = true;
+
+	        document.getElementById('colorful_sw').style.display = "initial";
+			document.getElementById('gray_sw').style.display = "initial";
 	    }
 
 	    function disableHover() {
@@ -41,6 +34,9 @@ $(document).ready(function() {
 
 	        container.className = container.className.replace(' hasHover', '');
 	        hasHoverClass = false;
+
+	        document.getElementById('colorful_sw').style.display = "none";
+			document.getElementById('gray_sw').style.display = "none";
 	    }
 
 	    function updateLastTouchTime() {
@@ -55,9 +51,6 @@ $(document).ready(function() {
 	}
 
 	watchForHover();
-
-
-
  
 });
 

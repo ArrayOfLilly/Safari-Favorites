@@ -4,6 +4,42 @@
 		"selected_items":
 		[
 			[
+				"get",
+				"getElementById('aSome')"
+			],
+			[
+				"to",
+				"toggleClass〔function〕"
+			],
+			[
+				"ac",
+				"acquisition\t(index.html)"
+			],
+			[
+				"en",
+				"entertainment"
+			],
+			[
+				"col",
+				"colorful_sw\t(index.html)"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"nav",
+				"nav_list\t(index.html)"
+			],
+			[
 				"con",
 				"content-box"
 			],
@@ -24,10 +60,6 @@
 				"justify-self"
 			],
 			[
-				"pa",
-				"padding-top\t(styles.css)"
-			],
-			[
 				"box-",
 				"box-shadow\t(styles.css)"
 			],
@@ -46,10 +78,6 @@
 			[
 				"sty",
 				"stylesheet"
-			],
-			[
-				"te",
-				"text-decoration"
 			],
 			[
 				"hov",
@@ -459,13 +487,16 @@
 	],
 	"file_history":
 	[
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/etc/order.txt",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/etc/img ToDo.txt",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/alterView.js",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/index.html",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/main.css",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/touchDevice.js",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/etc/img ToDo.txt",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/etc/ToDo list.txt",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/dark.css",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/light.css",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/index.html",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/etc/order.txt",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/show.js",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/alterView.js",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/colorful.css",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/gray.css",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/transition.js",
@@ -483,9 +514,7 @@
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/speeddial_touchDevice.js",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/speeddial_square.css",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/speeddial_main.css",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/touchDevice.js",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/group_collapse.js",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/etc/ToDo list.txt",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/SafariFavorites.sublime-project",
 		"/Users/ArrayOfLilly/Desktop/index.html",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/favicon/manifest.json",
@@ -585,8 +614,7 @@
 		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/YelpCamp/package-lock.json",
 		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/YelpCamp Project/app.js",
 		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/02 Movie Search App/app.js",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/02 Movie Search App/views/results.ejs",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/02 Movie Search App/views/search.ejs"
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 25 - Working with API's/02 Movie Search App/views/results.ejs"
 	],
 	"find":
 	{

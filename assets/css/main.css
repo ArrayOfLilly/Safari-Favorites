@@ -84,3 +84,12 @@ body.hasHover .fav_link > img:hover {
  .display_toggle {
  	display: none;
  }
+
+ .empty_cell {
+ 	height: 0;
+ 	width: 140px;
+ }
+
+ #colorful_sw, #gray_sw {
+ 	display: none;
+ }
