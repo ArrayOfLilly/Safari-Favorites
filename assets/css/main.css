@@ -35,6 +35,7 @@ a.fav_link img {
 }
 
 .switch {
+	height: 18px;
 	margin-left: 20px;
 }
 
@@ -42,9 +43,14 @@ a.fav_link img {
 	margin-left: 5px;
 }
 
+#colorful_sw, #gray_sw {
+ 	display: none;
+ }
+
 .selected {
-	padding: 2px;
-	border-radius: 5px;
+	padding: 0;
+	border-radius: 2px;
+	height: 18px;
 }
 
 body.hasHover .toggle > img {
@@ -90,6 +96,4 @@ body.hasHover .fav_link > img:hover {
  	width: 140px;
  }
 
- #colorful_sw, #gray_sw {
- 	display: none;
- }
+ 

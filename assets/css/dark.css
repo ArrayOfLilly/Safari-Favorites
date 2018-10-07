@@ -19,7 +19,7 @@ body.hasHover .toggle > img {
 }
 
 .selected {
-	border: 2px solid #888;
+	border: 1px solid #ddd;
 }
 
 .nav_group a {
