@@ -1,0 +1,5 @@
+body.hasHover .toggle > img {
+	filter: opacity(60%) grayscale(40%);
+	transition: filter;
+}
+

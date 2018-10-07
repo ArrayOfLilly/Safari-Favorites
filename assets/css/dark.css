@@ -15,8 +15,6 @@ body.hasHover .fav_link > img:hover {
 }
 
 body.hasHover .toggle > img {
-	filter: opacity(80%) grayscale(100%);
-	transition: filter;
 	z-index: -1;
 }
 
@@ -25,5 +23,9 @@ body.hasHover .toggle > img {
 }
 
 #dark_sw {
-	opacity: 0.5;
+	opacity: 0.25;
+}
+
+.selected {
+	border: 2px solid #fff;
 }

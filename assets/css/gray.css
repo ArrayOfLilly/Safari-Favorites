@@ -1,0 +1,8 @@
+body.hasHover .fav_link > img:hover {
+	box-shadow: 2px 2px 8px #000;
+}
+
+body.hasHover .toggle > img {
+	filter: opacity(80%) grayscale(100%);
+	transition: filter;
+}

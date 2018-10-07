@@ -15,15 +15,17 @@ body.hasHover .fav_link > img:hover {
 }
 
 body.hasHover .toggle > img {
-	filter: opacity(60%) grayscale(40%);
-	transition: filter;
 	z-index: -1;
 }
 
 #light_sw {
-	opacity: 0.1;
+	opacity: 0.2;
 }
 
 #dark_sw {
 	opacity: 0.7;
+}
+
+.selected {
+	border: 2px solid #000;
 }
