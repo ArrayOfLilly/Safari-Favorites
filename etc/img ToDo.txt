@@ -1,39 +1,39 @@
 List:
 
-- [x] MyAirBridge
-- [ ] Flaticon
-- [ ] FreePic
-- [ ] Poolga
-- [ ] Vladstudio
-- [x] OSXDaily
-- [ ] Notebookreview
-- [ ] 500px
-- [ ] pexels
-- [ ] pixabay
+[x] MyAirBridge
+[x] Flaticon
+[x] FreePik
+[x] Poolga
+[x] Vladstudio
+[x] OSXDaily
+[x] Notebookreview
+[x] 500px
+[x] pexels
+[x] pixabay
 
-- [ ] lorem ipsum
-- [x] unsplash
-- [ ] flickr
-- [ ] wallpaperswide
-- [ ] whatfontis
-- [ ] behance
-- [ ] dafont
-- [ ] 101font
-- [ ] fontsquirrel
-- [ ] urbanfonts
+[x] lorem ipsum
+[x] unsplash
+[x] flickr
+[x] wallpaperswide
+[x] whatfontis
+[x] behance
+[x] dafont
+[x] 101font
+[x] fontsquirrel
+[x] urbanfonts
 
-- [ ] literotica
-- [x] wikipedia
-- [ ] xnxx
-- [ ] banggood
-- [ ] aliexpress
-- [ ] uag
-- [x] jsfiddler
+[x] literotica
+[x] wikipedia
+[x] xnxx
+[x] banggood
+[x] aliexpress
+[x] uag
+[x] jsfiddler
 - [ ] aqua
 - [ ] 99design
 - [ ] http://allfont.net
 
-- [x] pizza.hu
+[x] pizza.hu
 - [ ] hennes
 - [ ] mango
 - [ ] tezenis
@@ -45,7 +45,7 @@ List:
 - [ ] energo
 
 - [ ] radicalsmart
-- [x] arrayoflilly
+[x] arrayoflilly
 - [ ] ugyfelkapu
 - [ ] posta
 - [ ] soundhound
@@ -124,3 +124,16 @@ List:
 - [ ] apple insider
 - [ ] 24
 - [ ] 168ora
+
+- [ ] Stylebolt 
+- [ ] Native Union
+- [ ] buykud
+- [ ] nike
+- [ ] puma
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+
