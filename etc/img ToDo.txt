@@ -1,68 +1,7 @@
 List:
 
-
-- [ ] aqua
-- [ ] http://allfont.net
-- [ ] tezenis
-- [ ] pull bear
-- [ ] zara
-- [ ] promod
-- [ ] paypal
-- [ ] energo
-- [ ] radicalsmart
-- [ ] ugyfelkapu
-
-- [ ] soundhound
-- [ ] musixmatch
-- [ ] spotify
-- [ ] tidal
-- [ ] raywenderlich
-- [ ] twitter
-- [ ] interworx
-- [ ] ingatlan.com
-- [ ] shareicon
-
-- [ ] imenza
-- [ ] w3org
-- [ ] google fonts
-- [ ] css tricks
-- [ ] klav
-- [ ] opensubtitles
-- [ ] feliratok.info
-- [ ] esl
-- [ ] usingenglish
-
-- [ ] fiftyfootshadows
-- [ ] top
-- [ ] Localhost
-- [ ] Codecuttlefish
-- [ ] Express
-- [ ] Validator
-- [ ] Bookline
-- [ ] Native union
-- [ ] Origo
-- [ ] .amerikai nepszava
-- [ ] .dezsa
-
-- [ ] .cultofmac
-- [ ] Nagaba
-- [ ] Office shoes
-- [ ] Mek
-- [ ] .gamezebo
-- [ ] Stack exchange
-- [ ] A list apart
-- [ ] Tuts+
-
-- [ ] udacity
-- [ ] apple insider
-- [ ] 24
-- [ ] 168ora
-- [ ] Stylebolt 
-- [ ] Native Union
-- [ ] buykud
-- [ ] treehouse
-- [ ] wordpress
-- [ ] 
-
-
-
+- [ ] Quizlet
+- [ ] Duolingo
+- [ ] Favicon Generator
+- [ ] Online Regexp Calc
+- [ ] Pb Math csatornái (2db)
