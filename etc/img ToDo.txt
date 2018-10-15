@@ -1,9 +1,3 @@
 List:
 
-- [ ] Quizlet
-- [ ] Duolingo
-- [ ] Favicon Generator
-- [ ] Online Regexp Calc
 - [ ] Pb Math csatornái (2db)
-- [ ] Mérce
-- [ ] Átlátszó
