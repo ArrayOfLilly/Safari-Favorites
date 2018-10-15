@@ -1,6 +1,7 @@
 - [x] order
 - [x] grouping
 - [x] touch device-on letiltani a hover effect ikonját
+- [ ] javitani ha két osztálynak is eleme a kedvenc
 - [ ] navbar
 - [ ] drag n' drop
 - [x] more link images
