@@ -2,9 +2,13 @@
 - [x] grouping
 - [x] touch device-on letiltani a hover effect ikonját
 - [ ] javitani ha két osztálynak is eleme a kedvenc
+- [ ] lecserélni a jquery szelektorokat változókra, hogy ne kelljen minden alkalommal lekérdezni őket
+- [ ] most popular
 - [ ] navbar
 - [ ] drag n' drop
 - [x] more link images
+- [ ] more color options
+- [ ] more user
 - [ ] DB 
 - [ ] editor or drag 'n' drop
 - [x] apply images to circle icons

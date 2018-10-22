@@ -491,13 +491,14 @@
 	],
 	"file_history":
 	[
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/etc/img ToDo.txt",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/etc/ToDo list.txt",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/main.css",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/index.html",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/show.js",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/etc/ToDo list.txt",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/.gitattributes",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/etc/img ToDo.txt",
 		"/Users/ArrayOfLilly/Desktop/css3patterns-master/style.css",
 		"/Users/ArrayOfLilly/Library/Group Containers/group.com.apple.notes/Media/0C7B9226-1C49-4CC7-A707-7B73D8F8267D/C7596599-C063-44AA-9A8F-187A49D89323.jsx",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/main.css",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/colorful.css",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/light.css",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/dark.css",
@@ -617,8 +618,7 @@
 		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/YelpCamp/package.json",
 		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/YelpCamp/v1/app.js",
 		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/YelpCamp/views/campgrounds.e",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/YelpCamp/package-lock.json",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/YelpCamp Project/app.js"
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/YelpCamp/package-lock.json"
 	],
 	"find":
 	{
