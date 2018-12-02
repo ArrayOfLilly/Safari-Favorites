@@ -483,17 +483,15 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/etc"
+		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites"
 	],
 	"file_history":
 	[
+		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/index.html",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/index.html",
+		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/geeks.js",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/etc/ToDo list.txt",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/css/main.css",
-		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/index.html",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/show.js",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/.gitattributes",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/etc/img ToDo.txt",
@@ -616,13 +614,11 @@
 		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/YelpCamp/v2/views/show.ejs",
 		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 27 - MongoDB Basics /01 Cats/app.js",
 		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/YelpCamp/package.json",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/YelpCamp/v1/app.js",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/YelpCamp/views/campgrounds.e",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/YelpCamp/package-lock.json"
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/YelpCamp/v1/app.js"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -636,6 +632,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"if (str.indexOf(str.charAt(i), i+1) == -1) {\n\t\t\talert(str.charAt(i));\n\t\t\treturn;",
 			"blank\">\n\t\t\t\t<img src=\"img/",
 			"_blank\">\n\t\t\t\t\t<img src=\"img/",
 			"switch\" src=\"./img/",
@@ -671,7 +668,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 24.0
 	},
 	"input":
 	{
@@ -724,7 +721,7 @@
 	"project": "SafariFavorites.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 44.0
 	},
 	"save_all_on_build": true,
 	"select_file":
