@@ -12,14 +12,6 @@
 - [ ] DB 
 - [ ] editor or drag 'n' drop
 - [x] apply images to circle icons
-		- Google Translate
-		- Csakazolvassa
-		- TPB
-		- Smashing Magazine
-		- Telekom
-		- UPC 
-		- iMore
-		- BS
-		- Sem ui
-		- swift
+- [ ] text only list view
+		
 		

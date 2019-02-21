@@ -55,6 +55,10 @@ $(document).ready(function(){
 			$(".design_gr").toggleClass("active");
 			$(".design").toggleClass("display_toggle");
 		}	
+		if ($(this).hasClass("typo_gr")){
+			$(".typo_gr").toggleClass("active");
+			$(".typo").toggleClass("display_toggle");
+		}
 		if ($(this).hasClass("social_gr")){
 			$(".social_gr").toggleClass("active");
 			$(".social").toggleClass("display_toggle");
