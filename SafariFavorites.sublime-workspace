@@ -483,15 +483,12 @@
 	},
 	"expanded_folders":
 	[
-		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites",
-		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/assets",
-		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/assets/css",
-		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/assets/js",
-		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/etc"
+		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites"
 	],
 	"file_history":
 	[
 		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/index.html",
+		"/Users/ArrayOfLilly/Desktop/Futó sorozataim",
 		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/assets/css/colorful.css",
 		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/assets/js/touchDevice.js",
 		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/assets/js/transition.js",
@@ -617,8 +614,7 @@
 		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 29 - RESTful routing /01 Blog/package-lock.json",
 		"/Users/ArrayOfLilly/Desktop/campgrounds.json",
 		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/YelpCamp/v2/views/index.ejs",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/YelpCamp/v2/views/new.ejs",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/YelpCamp/dummyToDB.js"
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/YelpCamp/v2/views/new.ejs"
 	],
 	"find":
 	{
