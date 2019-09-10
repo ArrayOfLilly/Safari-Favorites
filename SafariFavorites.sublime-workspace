@@ -618,7 +618,7 @@
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -632,6 +632,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"learn",
+			"cambridge",
 			"if (str.indexOf(str.charAt(i), i+1) == -1) {\n\t\t\talert(str.charAt(i));\n\t\t\treturn;",
 			"blank\">\n\t\t\t\t<img src=\"img/",
 			"_blank\">\n\t\t\t\t\t<img src=\"img/",
