@@ -483,16 +483,21 @@
 	},
 	"expanded_folders":
 	[
-		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites"
+		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites",
+		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/assets",
+		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/assets/css",
+		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/assets/js"
 	],
 	"file_history":
 	[
 		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/index.html",
+		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/.gitattributes",
+		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/assets/js/show.js",
+		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/assets/css/main.css",
 		"/Users/ArrayOfLilly/Desktop/Futó sorozataim",
 		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/assets/css/colorful.css",
 		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/assets/js/touchDevice.js",
 		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/assets/js/transition.js",
-		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/assets/js/show.js",
 		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/etc/ToDo list.txt",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/index.html",
 		"/Users/ArrayOfLilly/Documents/htdocs/SafariFavorites/assets/js/geeks.js",
@@ -612,9 +617,7 @@
 		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 29 - RESTful routing /01 Blog/blogs.JSON",
 		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 29 - RESTful routing /01 Blog/etc/mongoDB/restful_blog_app/dummyData.js",
 		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 29 - RESTful routing /01 Blog/package-lock.json",
-		"/Users/ArrayOfLilly/Desktop/campgrounds.json",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/YelpCamp/v2/views/index.ejs",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/BACK END COURSE Files/webdevbootcamp-master/YelpCamp/v2/views/new.ejs"
+		"/Users/ArrayOfLilly/Desktop/campgrounds.json"
 	],
 	"find":
 	{
@@ -632,6 +635,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"1pass",
+			"active",
 			"learn",
 			"cambridge",
 			"if (str.indexOf(str.charAt(i), i+1) == -1) {\n\t\t\talert(str.charAt(i));\n\t\t\treturn;",
