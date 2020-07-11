@@ -490,9 +490,11 @@
 	],
 	"file_history":
 	[
+		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/assets/css/dark.css",
 		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/index.html",
-		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/.gitattributes",
+		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/assets/js/alterView.js",
 		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/assets/js/show.js",
+		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/.gitattributes",
 		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/assets/css/main.css",
 		"/Users/ArrayOfLilly/Desktop/Futó sorozataim",
 		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/assets/css/colorful.css",
@@ -615,13 +617,11 @@
 		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 29 - RESTful routing /01 Blog/views/partials/footer.ejs",
 		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 29 - RESTful routing /01 Blog/views/partials/header.ejs",
 		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 29 - RESTful routing /01 Blog/blogs.JSON",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 29 - RESTful routing /01 Blog/etc/mongoDB/restful_blog_app/dummyData.js",
-		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 29 - RESTful routing /01 Blog/package-lock.json",
-		"/Users/ArrayOfLilly/Desktop/campgrounds.json"
+		"/Users/ArrayOfLilly/Desktop/Udemy - Web Developer Bootcamp/Section 29 - RESTful routing /01 Blog/etc/mongoDB/restful_blog_app/dummyData.js"
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
@@ -675,7 +675,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 24.0
+		"height": 28.0
 	},
 	"input":
 	{
@@ -728,7 +728,7 @@
 	"project": "SafariFavorites.sublime-project",
 	"replace":
 	{
-		"height": 44.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":
