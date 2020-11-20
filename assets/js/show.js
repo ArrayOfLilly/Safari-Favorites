@@ -42,7 +42,11 @@ $(document).ready(function(){
 		if ($(this).hasClass("entertainment_gr")){
 			$(".entertainment_gr").toggleClass("active");
 			$(".entertainment").toggleClass("display_toggle");
-		}	
+		}
+		if ($(this).hasClass("pokemon_gr")){
+			$(".pokemon_gr").toggleClass("active");
+			$(".pokemon").toggleClass("display_toggle");
+		}		
 		if ($(this).hasClass("acquisition_gr")){
 			$(".acquisition_gr").toggleClass("active");
 			$(".acquisition").toggleClass("display_toggle");
@@ -50,6 +54,14 @@ $(document).ready(function(){
 		if ($(this).hasClass("read_gr")){
 			$(".read_gr").toggleClass("active");
 			$(".read").toggleClass("display_toggle");
+		}
+		if ($(this).hasClass("international_gr")){
+			$(".international_gr").toggleClass("active");
+			$(".international").toggleClass("display_toggle");
+		}
+		if ($(this).hasClass("covid_gr")){
+			$(".covid_gr").toggleClass("active");
+			$(".covid").toggleClass("display_toggle");
 		}	
 		if ($(this).hasClass("design_gr")){
 			$(".design_gr").toggleClass("active");

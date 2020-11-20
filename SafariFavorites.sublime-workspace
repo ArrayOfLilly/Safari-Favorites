@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"covi",
+				"covid_gr\tabc"
+			],
+			[
+				"covid",
+				"covid_gr\t(index.html)"
+			],
+			[
+				"inte",
+				"international_gr\tabc"
+			],
+			[
+				"inter",
+				"international_gr\t(index.html)"
+			],
+			[
+				"pokemo",
+				"pokemon_gr\tabc"
+			],
+			[
 				"getE",
 				"getElementsByClassName"
 			],
@@ -490,10 +510,10 @@
 	],
 	"file_history":
 	[
-		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/assets/css/dark.css",
 		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/index.html",
-		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/assets/js/alterView.js",
 		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/assets/js/show.js",
+		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/assets/css/dark.css",
+		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/assets/js/alterView.js",
 		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/.gitattributes",
 		"/Volumes/Data/Dropbox/SDK/Antonovka/MAMP/htdocs/SafariFavorites/assets/css/main.css",
 		"/Users/ArrayOfLilly/Desktop/Futó sorozataim",
@@ -621,7 +641,7 @@
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -635,6 +655,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"social",
+			"pokemon",
+			"shop",
+			"social",
+			"sociial",
+			"brand",
 			"1pass",
 			"active",
 			"learn",
